@@ -1,0 +1,1391 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Yii Framework 2.0 中文权威指南",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-09T13:28:42Z",
+            "owner": "yiisoft",
+            "repo": "yii2",
+            "stars": 14303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yii2-cookbook",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2024-07-03T12:22:07Z",
+            "owner": "samdark",
+            "repo": "yii2-cookbook",
+            "stars": 1440
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yii2 官方文档及其他文本的中文本土化项目",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-10-26T15:35:24Z",
+            "owner": "yii2-chinesization",
+            "repo": "yii2-zh-cn",
+            "stars": 278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yii2-coding-standards",
+          "description": "：Yii2 代码标准检查",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-02T22:17:54Z",
+            "owner": "yiisoft",
+            "repo": "yii2-coding-standards",
+            "stars": 182
+          }
+        }
+      ],
+      "title": "Docs 文档"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "humhub",
+          "description": "：开源社交网络，以前说 Yii 1 现在迁移到 Yii2。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-11T16:06:01Z",
+            "owner": "humhub",
+            "repo": "humhub",
+            "stars": 6723
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fecshop",
+          "description": "：Fecshop 全称为 Fancy ECommerce Shop，是基于 PHP Yii2框架之上开发的一款优秀的开源电商系统。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-04-10T12:05:42Z",
+            "owner": "fecshop",
+            "repo": "yii2_fecshop",
+            "stars": 5266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yii2-starter-kit",
+          "description": "：Yii2 开箱即用",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-09T17:11:38Z",
+            "owner": "yii-starter-kit",
+            "repo": "yii2-starter-kit",
+            "stars": 1395
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zephir/luya",
+          "description": "：基于Yii2 CMS的编程框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-11-18T11:54:19Z",
+            "owner": "luyadev",
+            "repo": "luya",
+            "stars": 804
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dotplant2",
+          "description": "：来自俄罗斯的电子商务CMS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-09-14T06:54:34Z",
+            "owner": "DevGroup-ru",
+            "repo": "dotplant2",
+            "stars": 633
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EasyiiCMS",
+          "description": "：基于 Yii2 的 CMS 系统",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-04-30T11:01:03Z",
+            "owner": "noumo",
+            "repo": "easyii",
+            "stars": 582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yii2-shop",
+          "description": "：使用Yii 2.0实现简单商店的示例项目",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-03-02T22:15:42Z",
+            "owner": "samdark",
+            "repo": "yii2-shop",
+            "stars": 461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GetYii",
+          "description": "：论坛",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-08-04T12:03:47Z",
+            "owner": "iiYii",
+            "repo": "getyii",
+            "stars": 436
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yiisoft-contrib/yiiframework.com",
+          "description": "：新版官网首页正在开发中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-12T09:46:23Z",
+            "owner": "yiisoft-contrib",
+            "repo": "yiiframework.com",
+            "stars": 264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yincart2",
+          "description": "：电商星系系统，提供零售、批发、特卖、垂直电商、分销、O2O、C2C、移动电商、微信电商、社交电商、P2P、众筹等电商解决方案，根据需要选择不同的模块组合",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2019-04-22T06:35:11Z",
+            "owner": "yincart2",
+            "repo": "galaxy",
+            "stars": 228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "funshop",
+          "description": "：一个灵活的商城。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2017-02-08T08:13:58Z",
+            "owner": "funson86",
+            "repo": "funshop",
+            "stars": 228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "githubjeka/angular-yii2",
+          "description": "：yii2 restful + angular 实现前后端分离",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-04-18T09:13:39Z",
+            "owner": "githubjeka",
+            "repo": "angular-yii2",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lulucms2",
+          "description": "：LuLu CMS2，模块化开发，集成强大的权限管理功能，非常适合二次开发",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-06-02T02:26:10Z",
+            "owner": "yiifans",
+            "repo": "lulucms2",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xiaoego.com",
+          "description": "：xiaoego.com源码，校园O2O购物平台。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-02-12T06:52:06Z",
+            "owner": "daixianceng",
+            "repo": "xiaoego.com",
+            "stars": 181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "huajuan",
+          "description": "：Yii2 实现的问答,微信,文章系统 Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2017-04-17T08:32:22Z",
+            "owner": "callmez",
+            "repo": "huajuan",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hassiumsoft/hasscms-app",
+          "description": "：基于 Yii2 开发的 一个现代的、轻量级的、可扩展的PHP CMS 系统。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2015-12-19T17:54:03Z",
+            "owner": "hassiumsoft",
+            "repo": "hasscms-app",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dcms2",
+          "description": "：yii2编写的cms",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2016-08-11T09:07:52Z",
+            "owner": "djfly",
+            "repo": "dcms2",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yii2-platform-basic",
+          "description": "：基于 Yii2 基础版打造的 CMS",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2015-06-03T08:33:05Z",
+            "owner": "gromver",
+            "repo": "yii2-platform-basic",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jamband/plusarchive.com",
+          "description": "：如果想在 Yii2 中使用 webpack，可以参考这个项目。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T00:17:42Z",
+            "owner": "jamband",
+            "repo": "plusarchive.com",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MoBlog",
+          "description": "：一个基于Yii2的博客系统",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "yunjianyi",
+          "description": "：基于 Yii2 打造的 V2EX",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "YeeCMS",
+          "description": "：基于 Yii2 的 CMS，独到之处是借用 composer 安装卸载模块，你看看他的 composer.json 文件你就知道了。",
+          "children": []
+        }
+      ],
+      "title": "基于 Yii2 的开源程序"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "yii2tech/balance",
+          "description": "：强大的钱包系统。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2019-07-02T11:15:31Z",
+            "owner": "yii2tech",
+            "repo": "balance",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "robregonm/yii2-pdf",
+          "description": "：把 HTML 渲染成 PDF。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-08-02T16:49:49Z",
+            "owner": "robregonm",
+            "repo": "yii2-pdf",
+            "stars": 46
+          }
+        }
+      ],
+      "title": "Component 组件"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mdmsoft/yii2-admin",
+          "description": "RBAC Manager 基于角色的权限管理",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-07-08T00:03:20Z",
+            "owner": "mdmsoft",
+            "repo": "yii2-admin",
+            "stars": 1149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yii2-user",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-11-11T18:11:50Z",
+            "owner": "dektrium",
+            "repo": "yii2-user",
+            "stars": 911
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yii2-wechat",
+          "description": "：基于Yii2实现的微信模块",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2016-06-02T02:28:24Z",
+            "owner": "callmez",
+            "repo": "yii2-wechat",
+            "stars": 381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yii2-webshell",
+          "description": "在 web 下运行shell",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-05-23T15:45:40Z",
+            "owner": "samdark",
+            "repo": "yii2-webshell",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bedezign/yii2-audit",
+          "description": "：记录和显示web/cli请求，数据库更改php/js错误和相关数据。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-09-29T13:21:13Z",
+            "owner": "bedezign",
+            "repo": "yii2-audit",
+            "stars": 200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CostaRico/yii2-images",
+          "description": "：图片尺寸裁剪解决方案",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-03-30T15:02:43Z",
+            "owner": "CostaRico",
+            "repo": "yii2-images",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zhuravljov/yii2-rest",
+          "description": "Yii2 REST 客户端",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-07-18T15:08:42Z",
+            "owner": "zhuravljov",
+            "repo": "yii2-rest",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yii2-plugins-system",
+          "description": "Yii2 plugins system module with event manager and shortcodes as WordPress",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-03-12T11:10:42Z",
+            "owner": "loveorigami",
+            "repo": "yii2-plugins-system",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yii2-notification-wrapper",
+          "description": "Yii2-notification-wrapper module renders a message from session flash (with ajax, pjax support and etc.) through Growl, Noty, Toastr and more libraries",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-06-03T07:58:28Z",
+            "owner": "loveorigami",
+            "repo": "yii2-notification-wrapper",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chiliec/yii2-vote",
+          "description": "：提供点赞的模块",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-04T13:28:30Z",
+            "owner": "chiliec",
+            "repo": "yii2-vote",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "myweishanli/yii2-extjs-rbac",
+          "description": "：Yii2 ExtJs5 RBAC+ACL 权限管理系统",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2016-07-15T02:16:40Z",
+            "owner": "daycats",
+            "repo": "yii2-extjs-rbac",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yii2mod/yii2-cashier",
+          "description": "：帮你处理付费订阅棘手问题，比方说订阅专栏一个月/一年等。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-12-22T15:33:20Z",
+            "owner": "yii2mod",
+            "repo": "yii2-cashier",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yiier/yii2-rbac",
+          "description": "又一个 RBAC 模块",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-07-19T02:25:20Z",
+            "owner": "yiier",
+            "repo": "yii2-rbac",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "codemix/yii2-bs3activeform",
+          "description": "Yii2 表单增强模块，有在线 Demo。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2014-10-30T11:38:58Z",
+            "owner": "codemix",
+            "repo": "yii2-bs3activeform",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yiier/yii2-humans-log",
+          "description": "人类能看得懂的操作日志",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-02-14T14:09:04Z",
+            "owner": "yiier",
+            "repo": "yii2-humans-log",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yii2-setting",
+          "description": "：常见的在后台设置,可以使用在任何地方",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2015-02-06T01:46:54Z",
+            "owner": "funson86",
+            "repo": "yii2-setting",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Module 模块"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "kop/yii2-scroll-pager",
+          "description": "：瀑布滚动翻页",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-12-08T08:28:50Z",
+            "owner": "kop",
+            "repo": "yii2-scroll-pager",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bizley/yii2-content-tools",
+          "description": "：Yii2 实现 ContentTools 编辑器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-04-30T08:07:19Z",
+            "owner": "bizley",
+            "repo": "yii2-content-tools",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bupy7/yii2-dynamic-fields",
+          "description": "：表单动态增加行的组件（demo可以看Adding dynamic field）",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2018-03-26T05:38:51Z",
+            "owner": "bupy7",
+            "repo": "yii2-dynamic-fields",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yii2-widget-linkpager",
+          "description": "：带分页大小的分页栏",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2017-09-12T06:20:00Z",
+            "owner": "pgyf",
+            "repo": "yii2-widget-linkpager",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lichunqiang/yii2-sweet-submit",
+          "description": "：sweetalert一个漂亮的弹出框",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2017-08-12T00:58:06Z",
+            "owner": "lichunqiang",
+            "repo": "yii2-sweet-submit",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yii2-ajaxform",
+          "description": "：通过ajax提交表单",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-05-08T07:59:48Z",
+            "owner": "lichunqiang",
+            "repo": "yii2-ajaxform",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "Widgets 小部件"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "zhuravljov/yii2-queue",
+          "description": "：有望成为官网异步扩展的队列",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-03T09:06:15Z",
+            "owner": "yiisoft",
+            "repo": "yii2-queue",
+            "stars": 1063
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yii2-imagine",
+          "description": "：图片处理，缩略图生成",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-03T13:36:58Z",
+            "owner": "yiisoft",
+            "repo": "yii2-imagine",
+            "stars": 286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yiidoc/yii2-redactor",
+          "description": "：大名鼎鼎的 Redactor 在线编辑器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-04-15T01:47:07Z",
+            "owner": "yiidoc",
+            "repo": "yii2-redactor",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crontab",
+          "description": "：Yii2 定时任务",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2021-11-05T11:05:23Z",
+            "owner": "yii2tech",
+            "repo": "crontab",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lichunqiang/yii2-swagger",
+          "description": "：Yii2 结合 swagger 让写 API 文档不再是难事。Demo 地址",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-19T04:55:21Z",
+            "owner": "lichunqiang",
+            "repo": "yii2-swagger",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "moonlandsoft/yii2-phpexcel",
+          "description": "：导出 Excel",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-08-31T08:52:19Z",
+            "owner": "moonlandsoft",
+            "repo": "yii2-phpexcel",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alexandernst/yii2-device-detect",
+          "description": "：获取访问网站的设备信息。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-09-02T11:34:28Z",
+            "owner": "alexandernst",
+            "repo": "yii2-device-detect",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zhuzixian520/yii2-meilisearch",
+          "description": "：Yii2 的 MeiliSearch 扩展，一款轻量级restful管理风格的搜索引擎",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-02-21T14:59:27Z",
+            "owner": "zhuzixian520",
+            "repo": "yii2-meilisearch",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zelenin/yii2-semantic-ui",
+          "description": "：Yii2 封装 Semantic UI",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2018-05-03T14:53:41Z",
+            "owner": "zelenin",
+            "repo": "yii2-semantic-ui",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hellowearemito/yii2-sentry",
+          "description": "： 收集日志神器——Sentry 的 Yii2 扩展。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-02-01T17:52:57Z",
+            "owner": "hellowearemito",
+            "repo": "yii2-sentry",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jamband/yii2-schemadump",
+          "description": "：用命令的方式对现有的数据库（SQL）生成数据库迁移（migrate）代码，内有 gif 演示。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2022-05-26T18:50:38Z",
+            "owner": "jamband",
+            "repo": "yii2-schemadump",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yii2-smser",
+          "description": "：国内短信扩展",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-02-11T15:03:19Z",
+            "owner": "daixianceng",
+            "repo": "yii2-smser",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "windhoney/yii2-rest-rbac",
+          "description": "：Yii2前后分离，权限管理rbac--rest接口方式",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-08-17T05:58:40Z",
+            "owner": "windhoney",
+            "repo": "yii2-rest-rbac",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yii2-beanstalk",
+          "description": "：beanstalk 队列",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-05-21T08:47:55Z",
+            "owner": "udokmeci",
+            "repo": "yii2-beanstalk",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yii2-echarts",
+          "description": "：Yii2 ECharts扩展",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-04-14T02:02:30Z",
+            "owner": "daixianceng",
+            "repo": "yii2-echarts",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DenisOgr/yii2-cronjobs",
+          "description": "：用系统计划任务来每分钟运行这个PHP计划任务，然后你程序的计划任务的调用就写在 cron 这个控制器里就可以了。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-04-16T11:40:58Z",
+            "owner": "DenisOgr",
+            "repo": "yii2-cronjobs",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yiister/yii2-advanced-grid",
+          "description": "：高级版的 grid，有在线 demo 体验。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-04-19T05:56:52Z",
+            "owner": "yiister",
+            "repo": "yii2-advanced-grid",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trntv/yii2-aceeditor",
+          "description": "：Yii2 封装 ace 在线编辑器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-04-04T06:43:27Z",
+            "owner": "trntv",
+            "repo": "yii2-aceeditor",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yiier/yii2-aliyun-oss",
+          "description": "：基于官网 SDK 封装的 Yii2 使用阿里云OSS。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-06-08T06:35:55Z",
+            "owner": "yiier",
+            "repo": "yii2-aliyun-oss",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "abhi1693/yii2-system-info",
+          "description": "：获取 Windows 或者 Linux 系统信息。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-11-20T16:40:03Z",
+            "owner": "abhi1693",
+            "repo": "yii2-system-info",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "boundstate/yii2-mailgun",
+          "description": "：mailgun 邮箱服务扩展。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-04-21T20:30:46Z",
+            "owner": "boundstate",
+            "repo": "yii2-mailgun",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yiier/yii2-backup",
+          "description": "：通过命令备份数据库的扩展，可以添加到定时任务实现定时备份发送到 Email。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2016-08-01T06:16:26Z",
+            "owner": "yiier",
+            "repo": "yii2-backup",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yii2-contextmenu",
+          "description": "：Yii2 grid行右击操作",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-07-19T15:21:56Z",
+            "owner": "pgyf",
+            "repo": "yii2-contextmenu",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pingpp-yii2",
+          "description": "：Yii2 化 Ping++ SDK",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2016-05-13T17:11:34Z",
+            "owner": "idarex",
+            "repo": "pingpp-yii2",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hzhihua/yii2-dump",
+          "description": "：用命令行的方式自动对现有的数据库（SQL）生成数据库迁移（migrate）文件，内有预览图。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-05-02T06:44:07Z",
+            "owner": "Hzhihua",
+            "repo": "yii2-dump",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yii2-qiniu",
+          "description": "：集成七牛的 SDK",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2016-10-17T01:59:06Z",
+            "owner": "dcb9",
+            "repo": "yii2-qiniu",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zhuzixian520/yii2-api-doc",
+          "description": "：一个简单的 Yii2 注释生成 API 文档扩展",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-04-27T01:45:59Z",
+            "owner": "zhuzixian520",
+            "repo": "yii2-api-doc",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "imyangjin/yii2-mysql-json",
+          "description": "：扩展Yii2的ActiveRecord和ActiveQuery支持mysql json格式。使mysql json字段的操作和yii2无缝对接，使用更加简单。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-12-12T07:40:48Z",
+            "owner": "imyangjin",
+            "repo": "yii2-mysql-json",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yii2-yunpian",
+          "description": "：一个基于 Yii2 的短信 SDK",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2015-12-10T10:02:42Z",
+            "owner": "dcb9",
+            "repo": "yii2-yunpian",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yiier/yiier-return-url",
+          "description": "：登录之后自动跳转登录之前的页面。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-02-17T14:29:05Z",
+            "owner": "yiier",
+            "repo": "yii2-return-url",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "imanilchaudhari/yii2-rrssb",
+          "description": "：分享到社交网络（主要是针对国外一些网站）。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-05-03T07:45:08Z",
+            "owner": "imanilchaudhari",
+            "repo": "yii2-rrssb",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yiier/yii2-smser",
+          "description": "发短信",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-06-14T10:55:35Z",
+            "owner": "yiier",
+            "repo": "yii2-smser",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yiier/yii2-action-store",
+          "description": "让你不再为点赞、收藏等烦恼的扩展。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-04-19T05:55:09Z",
+            "owner": "yiier",
+            "repo": "yii2-action-store",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yiier/yii2-notification",
+          "description": "管理通知",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-08-31T09:05:22Z",
+            "owner": "yiier",
+            "repo": "yii2-notification",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Extension 扩展"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dmstr/yii2-adminlte-asset",
+          "description": "：大名鼎鼎的 AdminLTE 开源后台，我现在很多后台就用这个。配合Yii2 使用 AdminLTE 模板教程使用更佳。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-10-20T18:16:40Z",
+            "owner": "dmstr",
+            "repo": "yii2-adminlte-asset",
+            "stars": 1122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yiister/yii2-gentelella",
+          "description": "：Gentelella 后台模板，在线体验地址",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-02-02T08:30:45Z",
+            "owner": "yiister",
+            "repo": "yii2-gentelella",
+            "stars": 275
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yiister/yii2-adminlte",
+          "description": "：AdminLTE 后台模板的另一个选择，有做简单的 widget 封装，在线体验地址",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-08-29T05:10:06Z",
+            "owner": "yiister",
+            "repo": "yii2-adminlte",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "Themes 主题模板"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "creocoder/yii2-nested-sets",
+          "description": "：无限极嵌套分类",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2017-08-04T16:58:49Z",
+            "owner": "creocoder",
+            "repo": "yii2-nested-sets",
+            "stars": 444
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OmgDef/yii2-multilingual-behavior",
+          "description": "：多语言文章解决方案",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-09-06T12:56:45Z",
+            "owner": "OmgDef",
+            "repo": "yii2-multilingual-behavior",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "creocoder/yii2-taggable",
+          "description": "：文章标签解决方案",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-10-02T11:51:11Z",
+            "owner": "creocoder",
+            "repo": "yii2-taggable",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yii2mod/yii2-behaviors",
+          "description": "：两个行为，CarbonBehavior 处理跟时间日期有关系的事情。PurifyBehavior 使用 HTMLPurifier 保证输出数据的安全性。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-11-02T17:40:38Z",
+            "owner": "yii2mod",
+            "repo": "yii2-behaviors",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "paulzi/yii2-nested-intervals",
+          "description": "：数结构分类的行为、层级分类行为。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-08-06T08:38:10Z",
+            "owner": "paulzi",
+            "repo": "yii2-nested-intervals",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cornernote/yii2-softdelete",
+          "description": "：软删除（伪删除）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2017-09-13T23:13:07Z",
+            "owner": "cornernote",
+            "repo": "yii2-softdelete",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Behaviors 行为"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "kartik-v/yii2-helpers",
+          "description": "：HTML 和 枚举的 helper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-05-02T02:12:08Z",
+            "owner": "kartik-v",
+            "repo": "yii2-helpers",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DevGroup-ru/yii2-tag-dependency-helper",
+          "description": "：非常棒的缓存设计方法，具体实现可以参考 dotplant2 代码。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2017-09-22T08:29:50Z",
+            "owner": "DevGroup-ru",
+            "repo": "yii2-tag-dependency-helper",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xinnianq/yii2-routes",
+          "description": "：获取yii2项目所有路由，方便权限控制",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-03-19T02:14:20Z",
+            "owner": "xinnianq",
+            "repo": "yii2-routes",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Helpers 助手"
+    },
+    {
+      "description": "手机微信或者支付宝扫描上方二维码可向本项目赞助，如果你觉得这个「干货集」对你很有帮助，帮你节省了大量的找资料时间，欢迎赞助。",
+      "items": [],
+      "title": "Donate 赞助"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:23:56.156Z",
+    "original_repository": "forecho/awesome-yii2",
+    "original_repository_sha": "7df0c0e0a474e28397604c04a1002b837862107c",
+    "enhanced_repository": "enhansome/enhansome-yii2",
+    "enhanced_repository_description": null,
+    "title": "awesome-yii2 with stars"
+  }
+}
