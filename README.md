@@ -11,7 +11,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ## Docs 文档
 
-* [Yii Framework 2.0 中文权威指南 ](https://github.com/yiisoft/yii2/tree/master/docs/guide-zh-CN) ⭐ 14,303 | 🐛 318 | 🌐 PHP | 📅 2026-08-09
+* [Yii Framework 2.0 中文权威指南 ](https://github.com/yiisoft/yii2/tree/master/docs/guide-zh-CN) ⭐ 14,301 | 🐛 318 | 🌐 PHP | 📅 2026-08-13
 * [yii2-cookbook](https://github.com/samdark/yii2-cookbook) ⭐ 1,440 | 🐛 55 | 🌐 Makefile | 📅 2024-07-03
 * [Yii2 官方文档及其他文本的中文本土化项目](https://github.com/yii2-chinesization/yii2-zh-cn) ⭐ 278 | 🐛 4 | 🌐 PHP | 📅 2021-10-26
 * [yii2-coding-standards](https://github.com/yiisoft/yii2-coding-standards) ⭐ 182 | 🐛 1 | 🌐 PHP | 📅 2026-07-02：Yii2 代码标准检查
@@ -76,7 +76,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 * [bizley/yii2-content-tools](https://github.com/bizley/yii2-content-tools) ⭐ 80 | 🐛 0 | 🌐 PHP | 📅 2021-04-30：Yii2 实现 [ContentTools](http://getcontenttools.com/) 编辑器
 * [bupy7/yii2-dynamic-fields](https://github.com/bupy7/yii2-dynamic-fields) ⚠️ Archived：表单动态增加行的组件（demo可以看[Adding dynamic field](http://formvalidation.io/examples/adding-dynamic-field/)）
 * [yii2-widget-linkpager](https://github.com/liyunfang/yii2-widget-linkpager) ⭐ 43 | 🐛 1 | 🌐 PHP | 📅 2017-09-12：带分页大小的分页栏
-* [lichunqiang/yii2-sweet-submit](https://github.com/lichunqiang/yii2-sweet-submit) ⭐ 27 | 🐛 0 | 🌐 PHP | 📅 2017-08-12：[sweetalert](https://github.com/t4t5/sweetalert) ⭐ 22,265 | 🐛 199 | 🌐 TypeScript | 📅 2023-04-15一个漂亮的弹出框
+* [lichunqiang/yii2-sweet-submit](https://github.com/lichunqiang/yii2-sweet-submit) ⭐ 27 | 🐛 0 | 🌐 PHP | 📅 2017-08-12：[sweetalert](https://github.com/t4t5/sweetalert) ⭐ 22,263 | 🐛 199 | 🌐 TypeScript | 📅 2023-04-15一个漂亮的弹出框
 * [yii2-ajaxform](https://github.com/lichunqiang/yii2-ajaxform) ⭐ 21 | 🐛 0 | 🌐 PHP | 📅 2019-05-08：通过ajax提交表单
 
 ## Extension 扩展
@@ -123,7 +123,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ## Themes 主题模板
 
-* [dmstr/yii2-adminlte-asset](https://github.com/dmstr/yii2-adminlte-asset) ⭐ 1,122 | 🐛 17 | 🌐 PHP | 📅 2025-10-20：大名鼎鼎的 [AdminLTE](https://github.com/almasaeed2010/AdminLTE) ⭐ 45,546 | 🐛 0 | 🌐 Astro | 📅 2026-08-10 开源后台，我现在很多后台就用这个。配合[Yii2 使用 AdminLTE 模板](http://www.getyii.com/topic/564)教程使用更佳。
+* [dmstr/yii2-adminlte-asset](https://github.com/dmstr/yii2-adminlte-asset) ⭐ 1,122 | 🐛 17 | 🌐 PHP | 📅 2025-10-20：大名鼎鼎的 [AdminLTE](https://github.com/almasaeed2010/AdminLTE) ⭐ 45,548 | 🐛 0 | 🌐 Astro | 📅 2026-08-10 开源后台，我现在很多后台就用这个。配合[Yii2 使用 AdminLTE 模板](http://www.getyii.com/topic/564)教程使用更佳。
 * [yiister/yii2-gentelella](https://github.com/yiister/yii2-gentelella) ⭐ 275 | 🐛 14 | 🌐 PHP | 📅 2025-02-02：Gentelella 后台模板，[在线体验地址](http://gentelella.yiister.ru/)
 * [yiister/yii2-adminlte](https://github.com/yiister/yii2-adminlte) ⭐ 28 | 🐛 6 | 🌐 PHP | 📅 2018-08-29：AdminLTE 后台模板的另一个选择，有做简单的 widget 封装，[在线体验地址](http://adminlte.yiister.ru/)
 
@@ -172,4 +172,4 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-09T13:28:42Z",
+            "last_commit": "2026-08-13T21:54:54Z",
             "owner": "yiisoft",
             "repo": "yii2",
-            "stars": 14303
+            "stars": 14301
           }
         },
         {
@@ -1381,7 +1381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:23:56.156Z",
+    "last_updated": "2026-08-14T03:52:12.600Z",
     "original_repository": "forecho/awesome-yii2",
     "original_repository_sha": "7df0c0e0a474e28397604c04a1002b837862107c",
     "enhanced_repository": "enhansome/enhansome-yii2",
