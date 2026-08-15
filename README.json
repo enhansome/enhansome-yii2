@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-13T21:54:54Z",
+            "last_commit": "2026-08-14T18:40:06Z",
             "owner": "yiisoft",
             "repo": "yii2",
             "stars": 14301
@@ -53,7 +53,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-07-02T22:17:54Z",
+            "last_commit": "2026-08-14T18:09:07Z",
             "owner": "yiisoft",
             "repo": "yii2-coding-standards",
             "stars": 182
@@ -76,7 +76,7 @@
             "last_commit": "2026-08-11T16:06:01Z",
             "owner": "humhub",
             "repo": "humhub",
-            "stars": 6723
+            "stars": 6725
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2022-04-10T12:05:42Z",
             "owner": "fecshop",
             "repo": "yii2_fecshop",
-            "stars": 5266
+            "stars": 5265
           }
         },
         {
@@ -1381,7 +1381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T03:52:12.600Z",
+    "last_updated": "2026-08-15T02:38:39.898Z",
     "original_repository": "forecho/awesome-yii2",
     "original_repository_sha": "7df0c0e0a474e28397604c04a1002b837862107c",
     "enhanced_repository": "enhansome/enhansome-yii2",
