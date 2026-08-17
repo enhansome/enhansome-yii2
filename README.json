@@ -73,7 +73,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-11T16:06:01Z",
+            "last_commit": "2026-08-16T12:32:30Z",
             "owner": "humhub",
             "repo": "humhub",
             "stars": 6727
@@ -185,7 +185,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-12T09:46:23Z",
+            "last_commit": "2026-08-16T10:13:36Z",
             "owner": "yiisoft-contrib",
             "repo": "yiiframework.com",
             "stars": 264
@@ -366,7 +366,7 @@
             "last_commit": "2019-07-02T11:15:31Z",
             "owner": "yii2tech",
             "repo": "balance",
-            "stars": 179
+            "stars": 180
           }
         },
         {
@@ -1381,7 +1381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:47:43.878Z",
+    "last_updated": "2026-08-17T02:46:53.162Z",
     "original_repository": "forecho/awesome-yii2",
     "original_repository_sha": "7df0c0e0a474e28397604c04a1002b837862107c",
     "enhanced_repository": "enhansome/enhansome-yii2",
