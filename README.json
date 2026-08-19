@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3431193,
             "language": "PHP",
             "last_commit": "2026-08-14T18:40:06Z",
             "owner": "yiisoft",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18465445,
             "language": "Makefile",
             "last_commit": "2024-07-03T12:22:07Z",
             "owner": "samdark",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15524944,
             "language": "PHP",
             "last_commit": "2021-10-26T15:35:24Z",
             "owner": "yii2-chinesization",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10550782,
             "language": "PHP",
             "last_commit": "2026-08-14T18:09:07Z",
             "owner": "yiisoft",
@@ -63,7 +67,7 @@
       "title": "Docs 文档"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -72,8 +76,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16685462,
             "language": "PHP",
-            "last_commit": "2026-08-18T14:09:36Z",
+            "last_commit": "2026-08-19T12:08:10Z",
             "owner": "humhub",
             "repo": "humhub",
             "stars": 6731
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60491949,
             "language": "PHP",
             "last_commit": "2022-04-10T12:05:42Z",
             "owner": "fecshop",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21611022,
             "language": "PHP",
             "last_commit": "2026-03-09T17:11:38Z",
             "owner": "yii-starter-kit",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27535396,
             "language": "PHP",
             "last_commit": "2025-11-18T11:54:19Z",
             "owner": "luyadev",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26487641,
             "language": "PHP",
             "last_commit": "2020-09-14T06:54:34Z",
             "owner": "DevGroup-ru",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29267410,
             "language": "PHP",
             "last_commit": "2019-04-30T11:01:03Z",
             "owner": "noumo",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31869102,
             "language": "PHP",
             "last_commit": "2021-03-02T22:15:42Z",
             "owner": "samdark",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28499921,
             "language": "PHP",
             "last_commit": "2023-08-04T12:03:47Z",
             "owner": "iiYii",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26328526,
             "language": "HTML",
             "last_commit": "2026-08-17T12:19:42Z",
             "owner": "yiisoft-contrib",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33912737,
             "language": "CSS",
             "last_commit": "2019-04-22T06:35:11Z",
             "owner": "yincart2",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29327135,
             "language": "PHP",
             "last_commit": "2017-02-08T08:13:58Z",
             "owner": "funson86",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17976110,
             "language": null,
             "last_commit": "2017-04-18T09:13:39Z",
             "owner": "githubjeka",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36067794,
             "language": "JavaScript",
             "last_commit": "2017-06-02T02:26:10Z",
             "owner": "yiifans",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48897301,
             "language": "JavaScript",
             "last_commit": "2018-02-12T06:52:06Z",
             "owner": "daixianceng",
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28270574,
             "language": "PHP",
             "last_commit": "2017-04-17T08:32:22Z",
             "owner": "callmez",
@@ -282,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46508912,
             "language": "PHP",
             "last_commit": "2015-12-19T17:54:03Z",
             "owner": "hassiumsoft",
@@ -296,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20053807,
             "language": "PHP",
             "last_commit": "2016-08-11T09:07:52Z",
             "owner": "djfly",
@@ -310,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 28137480,
             "language": "PHP",
             "last_commit": "2015-06-03T08:33:05Z",
             "owner": "gromver",
@@ -324,36 +346,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 228758193,
             "language": "TypeScript",
             "last_commit": "2026-08-10T00:17:42Z",
             "owner": "jamband",
             "repo": "plusarchive.com",
             "stars": 7
           }
-        },
-        {
-          "node_type": "item",
-          "title": "MoBlog",
-          "description": "：一个基于Yii2的博客系统",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "yunjianyi",
-          "description": "：基于 Yii2 打造的 V2EX",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "YeeCMS",
-          "description": "：基于 Yii2 的 CMS，独到之处是借用 composer 安装卸载模块，你看看他的 composer.json 文件你就知道了。",
-          "children": []
         }
       ],
       "title": "基于 Yii2 的开源程序"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -362,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 55979106,
             "language": "PHP",
             "last_commit": "2019-07-02T11:15:31Z",
             "owner": "yii2tech",
@@ -376,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19834454,
             "language": "PHP",
             "last_commit": "2019-08-02T16:49:49Z",
             "owner": "robregonm",
@@ -387,7 +394,7 @@
       "title": "Component 组件"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -396,6 +403,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14681791,
             "language": "PHP",
             "last_commit": "2023-07-08T00:03:20Z",
             "owner": "mdmsoft",
@@ -410,6 +418,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14082447,
             "language": "PHP",
             "last_commit": "2025-11-11T18:11:50Z",
             "owner": "dektrium",
@@ -424,6 +433,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25248913,
             "language": "PHP",
             "last_commit": "2016-06-02T02:28:24Z",
             "owner": "callmez",
@@ -438,6 +448,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18795986,
             "language": "PHP",
             "last_commit": "2019-05-23T15:45:40Z",
             "owner": "samdark",
@@ -452,6 +463,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23378995,
             "language": "PHP",
             "last_commit": "2025-09-29T13:21:13Z",
             "owner": "bedezign",
@@ -466,6 +478,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21939603,
             "language": "PHP",
             "last_commit": "2019-03-30T15:02:43Z",
             "owner": "CostaRico",
@@ -480,6 +493,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42018094,
             "language": "PHP",
             "last_commit": "2018-07-18T15:08:42Z",
             "owner": "zhuravljov",
@@ -494,6 +508,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40084051,
             "language": "PHP",
             "last_commit": "2019-03-12T11:10:42Z",
             "owner": "loveorigami",
@@ -508,6 +523,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54316696,
             "language": "PHP",
             "last_commit": "2021-06-03T07:58:28Z",
             "owner": "loveorigami",
@@ -522,6 +538,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28711425,
             "language": "PHP",
             "last_commit": "2026-01-04T13:28:30Z",
             "owner": "chiliec",
@@ -536,6 +553,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47086036,
             "language": "PHP",
             "last_commit": "2016-07-15T02:16:40Z",
             "owner": "daycats",
@@ -550,6 +568,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58536005,
             "language": "PHP",
             "last_commit": "2022-12-22T15:33:20Z",
             "owner": "yii2mod",
@@ -564,6 +583,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42927225,
             "language": "PHP",
             "last_commit": "2020-07-19T02:25:20Z",
             "owner": "yiier",
@@ -578,6 +598,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18367585,
             "language": "PHP",
             "last_commit": "2014-10-30T11:38:58Z",
             "owner": "codemix",
@@ -592,6 +613,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113306071,
             "language": "PHP",
             "last_commit": "2020-02-14T14:09:04Z",
             "owner": "yiier",
@@ -606,6 +628,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27794804,
             "language": "PHP",
             "last_commit": "2015-02-06T01:46:54Z",
             "owner": "funson86",
@@ -617,7 +640,7 @@
       "title": "Module 模块"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -626,6 +649,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15753049,
             "language": "PHP",
             "last_commit": "2023-12-08T08:28:50Z",
             "owner": "kop",
@@ -640,6 +664,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43975470,
             "language": "PHP",
             "last_commit": "2021-04-30T08:07:19Z",
             "owner": "bizley",
@@ -654,6 +679,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 32881707,
             "language": "PHP",
             "last_commit": "2018-03-26T05:38:51Z",
             "owner": "bupy7",
@@ -668,6 +694,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41467742,
             "language": "PHP",
             "last_commit": "2017-09-12T06:20:00Z",
             "owner": "pgyf",
@@ -682,6 +709,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47067780,
             "language": "PHP",
             "last_commit": "2017-08-12T00:58:06Z",
             "owner": "lichunqiang",
@@ -696,6 +724,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46793035,
             "language": "PHP",
             "last_commit": "2019-05-08T07:59:48Z",
             "owner": "lichunqiang",
@@ -707,7 +736,7 @@
       "title": "Widgets 小部件"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -716,6 +745,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72430005,
             "language": "PHP",
             "last_commit": "2026-08-03T09:06:15Z",
             "owner": "yiisoft",
@@ -730,6 +760,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15568575,
             "language": "PHP",
             "last_commit": "2026-07-03T13:36:58Z",
             "owner": "yiisoft",
@@ -744,6 +775,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12959597,
             "language": "JavaScript",
             "last_commit": "2022-04-15T01:47:07Z",
             "owner": "yiidoc",
@@ -758,6 +790,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 37658214,
             "language": "PHP",
             "last_commit": "2021-11-05T11:05:23Z",
             "owner": "yii2tech",
@@ -772,6 +805,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47503711,
             "language": "PHP",
             "last_commit": "2026-01-19T04:55:21Z",
             "owner": "lichunqiang",
@@ -786,6 +820,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31763341,
             "language": "PHP",
             "last_commit": "2023-08-31T08:52:19Z",
             "owner": "moonlandsoft",
@@ -800,6 +835,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32892278,
             "language": "PHP",
             "last_commit": "2020-09-02T11:34:28Z",
             "owner": "alexandernst",
@@ -814,6 +850,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 457685505,
             "language": "PHP",
             "last_commit": "2022-02-21T14:59:27Z",
             "owner": "zhuzixian520",
@@ -828,6 +865,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 29108451,
             "language": "PHP",
             "last_commit": "2018-05-03T14:53:41Z",
             "owner": "zelenin",
@@ -842,6 +880,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57024046,
             "language": "PHP",
             "last_commit": "2020-02-01T17:52:57Z",
             "owner": "hellowearemito",
@@ -856,6 +895,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 27130826,
             "language": "PHP",
             "last_commit": "2022-05-26T18:50:38Z",
             "owner": "jamband",
@@ -870,6 +910,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36271514,
             "language": "PHP",
             "last_commit": "2018-02-11T15:03:19Z",
             "owner": "daixianceng",
@@ -884,6 +925,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101857145,
             "language": "PHP",
             "last_commit": "2023-08-17T05:58:40Z",
             "owner": "windhoney",
@@ -898,6 +940,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26915613,
             "language": "PHP",
             "last_commit": "2021-05-21T08:47:55Z",
             "owner": "udokmeci",
@@ -912,6 +955,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54466930,
             "language": "PHP",
             "last_commit": "2020-04-14T02:02:30Z",
             "owner": "daixianceng",
@@ -926,6 +970,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21898429,
             "language": "PHP",
             "last_commit": "2021-04-16T11:40:58Z",
             "owner": "DenisOgr",
@@ -940,6 +985,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64160372,
             "language": "PHP",
             "last_commit": "2024-04-19T05:56:52Z",
             "owner": "yiister",
@@ -954,6 +1000,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22145686,
             "language": "PHP",
             "last_commit": "2018-04-04T06:43:27Z",
             "owner": "trntv",
@@ -968,6 +1015,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54087278,
             "language": "PHP",
             "last_commit": "2020-06-08T06:35:55Z",
             "owner": "yiier",
@@ -982,6 +1030,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30833259,
             "language": "PHP",
             "last_commit": "2020-11-20T16:40:03Z",
             "owner": "abhi1693",
@@ -996,6 +1045,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35473495,
             "language": "PHP",
             "last_commit": "2023-04-21T20:30:46Z",
             "owner": "boundstate",
@@ -1010,6 +1060,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38241201,
             "language": "PHP",
             "last_commit": "2016-08-01T06:16:26Z",
             "owner": "yiier",
@@ -1024,6 +1075,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41069793,
             "language": "PHP",
             "last_commit": "2019-07-19T15:21:56Z",
             "owner": "pgyf",
@@ -1038,6 +1090,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 46249004,
             "language": "PHP",
             "last_commit": "2016-05-13T17:11:34Z",
             "owner": "idarex",
@@ -1052,6 +1105,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102996543,
             "language": "PHP",
             "last_commit": "2018-05-02T06:44:07Z",
             "owner": "Hzhihua",
@@ -1066,6 +1120,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 60023612,
             "language": "PHP",
             "last_commit": "2016-10-17T01:59:06Z",
             "owner": "dcb9",
@@ -1080,6 +1135,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 361443688,
             "language": "PHP",
             "last_commit": "2021-04-27T01:45:59Z",
             "owner": "zhuzixian520",
@@ -1094,6 +1150,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153735603,
             "language": "PHP",
             "last_commit": "2018-12-12T07:40:48Z",
             "owner": "imyangjin",
@@ -1108,6 +1165,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 33489973,
             "language": "PHP",
             "last_commit": "2015-12-10T10:02:42Z",
             "owner": "dcb9",
@@ -1122,6 +1180,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53997422,
             "language": "PHP",
             "last_commit": "2020-02-17T14:29:05Z",
             "owner": "yiier",
@@ -1136,6 +1195,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42184609,
             "language": "PHP",
             "last_commit": "2024-05-03T07:45:08Z",
             "owner": "imanilchaudhari",
@@ -1150,6 +1210,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118583052,
             "language": "PHP",
             "last_commit": "2018-06-14T10:55:35Z",
             "owner": "yiier",
@@ -1164,6 +1225,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114237624,
             "language": "PHP",
             "last_commit": "2020-04-19T05:55:09Z",
             "owner": "yiier",
@@ -1178,6 +1240,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 119659094,
             "language": "PHP",
             "last_commit": "2021-08-31T09:05:22Z",
             "owner": "yiier",
@@ -1189,7 +1252,7 @@
       "title": "Extension 扩展"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1198,6 +1261,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24685208,
             "language": "PHP",
             "last_commit": "2025-10-20T18:16:40Z",
             "owner": "dmstr",
@@ -1212,6 +1276,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59427924,
             "language": "PHP",
             "last_commit": "2025-02-02T08:30:45Z",
             "owner": "yiister",
@@ -1226,6 +1291,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48654006,
             "language": "PHP",
             "last_commit": "2018-08-29T05:10:06Z",
             "owner": "yiister",
@@ -1237,7 +1303,7 @@
       "title": "Themes 主题模板"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1246,6 +1312,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9871134,
             "language": "PHP",
             "last_commit": "2017-08-04T16:58:49Z",
             "owner": "creocoder",
@@ -1260,6 +1327,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22041131,
             "language": "PHP",
             "last_commit": "2022-09-06T12:56:45Z",
             "owner": "OmgDef",
@@ -1274,6 +1342,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28864288,
             "language": "PHP",
             "last_commit": "2018-10-02T11:51:11Z",
             "owner": "creocoder",
@@ -1288,6 +1357,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27187689,
             "language": "PHP",
             "last_commit": "2019-11-02T17:40:38Z",
             "owner": "yii2mod",
@@ -1302,6 +1372,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39594986,
             "language": "PHP",
             "last_commit": "2018-08-06T08:38:10Z",
             "owner": "paulzi",
@@ -1316,6 +1387,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37762218,
             "language": "PHP",
             "last_commit": "2017-09-13T23:13:07Z",
             "owner": "cornernote",
@@ -1327,7 +1399,7 @@
       "title": "Behaviors 行为"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1336,6 +1408,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14754250,
             "language": "PHP",
             "last_commit": "2024-05-02T02:12:08Z",
             "owner": "kartik-v",
@@ -1350,6 +1423,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27085791,
             "language": "PHP",
             "last_commit": "2017-09-22T08:29:50Z",
             "owner": "DevGroup-ru",
@@ -1364,6 +1438,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 119511605,
             "language": "PHP",
             "last_commit": "2018-03-19T02:14:20Z",
             "owner": "xinnianq",
@@ -1373,16 +1448,12 @@
         }
       ],
       "title": "Helpers 助手"
-    },
-    {
-      "description": "手机微信或者支付宝扫描上方二维码可向本项目赞助，如果你觉得这个「干货集」对你很有帮助，帮你节省了大量的找资料时间，欢迎赞助。",
-      "items": [],
-      "title": "Donate 赞助"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:44:31.177Z",
+    "last_updated": "2026-08-19T12:58:43.280Z",
     "original_repository": "forecho/awesome-yii2",
+    "original_repository_id": 37696487,
     "original_repository_sha": "7df0c0e0a474e28397604c04a1002b837862107c",
     "enhanced_repository": "enhansome/enhansome-yii2",
     "enhanced_repository_description": null,
