@@ -73,10 +73,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-17T20:15:07Z",
+            "last_commit": "2026-08-18T14:09:36Z",
             "owner": "humhub",
             "repo": "humhub",
-            "stars": 6730
+            "stars": 6731
           }
         },
         {
@@ -1381,7 +1381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T02:42:18.366Z",
+    "last_updated": "2026-08-19T02:44:31.177Z",
     "original_repository": "forecho/awesome-yii2",
     "original_repository_sha": "7df0c0e0a474e28397604c04a1002b837862107c",
     "enhanced_repository": "enhansome/enhansome-yii2",
