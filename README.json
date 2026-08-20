@@ -15,7 +15,7 @@
             "last_commit": "2026-08-14T18:40:06Z",
             "owner": "yiisoft",
             "repo": "yii2",
-            "stars": 14300
+            "stars": 14299
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-19T12:08:10Z",
             "owner": "humhub",
             "repo": "humhub",
-            "stars": 6731
+            "stars": 6732
           }
         },
         {
@@ -408,7 +408,7 @@
             "last_commit": "2023-07-08T00:03:20Z",
             "owner": "mdmsoft",
             "repo": "yii2-admin",
-            "stars": 1149
+            "stars": 1150
           }
         },
         {
@@ -1451,7 +1451,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:58:43.280Z",
+    "last_updated": "2026-08-20T02:43:52.926Z",
     "original_repository": "forecho/awesome-yii2",
     "original_repository_id": 37696487,
     "original_repository_sha": "7df0c0e0a474e28397604c04a1002b837862107c",
