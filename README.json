@@ -81,7 +81,7 @@
             "last_commit": "2026-08-19T12:08:10Z",
             "owner": "humhub",
             "repo": "humhub",
-            "stars": 6732
+            "stars": 6734
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2022-04-10T12:05:42Z",
             "owner": "fecshop",
             "repo": "yii2_fecshop",
-            "stars": 5265
+            "stars": 5264
           }
         },
         {
@@ -1451,7 +1451,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:49:32.540Z",
+    "last_updated": "2026-08-22T02:40:39.022Z",
     "original_repository": "forecho/awesome-yii2",
     "original_repository_id": 37696487,
     "original_repository_sha": "7df0c0e0a474e28397604c04a1002b837862107c",
