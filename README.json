@@ -78,10 +78,10 @@
             "archived": false,
             "id": 16685462,
             "language": "PHP",
-            "last_commit": "2026-08-19T12:08:10Z",
+            "last_commit": "2026-08-22T19:17:32Z",
             "owner": "humhub",
             "repo": "humhub",
-            "stars": 6734
+            "stars": 6735
           }
         },
         {
@@ -348,7 +348,7 @@
             "archived": false,
             "id": 228758193,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T00:17:42Z",
+            "last_commit": "2026-08-23T00:45:32Z",
             "owner": "jamband",
             "repo": "plusarchive.com",
             "stars": 7
@@ -1451,7 +1451,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T02:40:39.022Z",
+    "last_updated": "2026-08-23T02:50:07.294Z",
     "original_repository": "forecho/awesome-yii2",
     "original_repository_id": 37696487,
     "original_repository_sha": "7df0c0e0a474e28397604c04a1002b837862107c",
