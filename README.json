@@ -78,10 +78,10 @@
             "archived": false,
             "id": 16685462,
             "language": "PHP",
-            "last_commit": "2026-08-22T19:17:32Z",
+            "last_commit": "2026-08-23T15:28:43Z",
             "owner": "humhub",
             "repo": "humhub",
-            "stars": 6735
+            "stars": 6736
           }
         },
         {
@@ -1451,7 +1451,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:50:07.294Z",
+    "last_updated": "2026-08-24T02:50:41.571Z",
     "original_repository": "forecho/awesome-yii2",
     "original_repository_id": 37696487,
     "original_repository_sha": "7df0c0e0a474e28397604c04a1002b837862107c",
