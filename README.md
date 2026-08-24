@@ -11,7 +11,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ## Docs 文档
 
-* [Yii Framework 2.0 中文权威指南 ](https://github.com/yiisoft/yii2/tree/master/docs/guide-zh-CN) ⭐ 14,299 | 🐛 330 | 🌐 PHP | 📅 2026-08-20
+* [Yii Framework 2.0 中文权威指南 ](https://github.com/yiisoft/yii2/tree/master/docs/guide-zh-CN) ⭐ 14,299 | 🐛 331 | 🌐 PHP | 📅 2026-08-20
 * [yii2-cookbook](https://github.com/samdark/yii2-cookbook) ⭐ 1,440 | 🐛 55 | 🌐 Makefile | 📅 2024-07-03
 * [Yii2 官方文档及其他文本的中文本土化项目](https://github.com/yii2-chinesization/yii2-zh-cn) ⭐ 278 | 🐛 4 | 🌐 PHP | 📅 2021-10-26
 * [yii2-coding-standards](https://github.com/yiisoft/yii2-coding-standards) ⭐ 182 | 🐛 1 | 🌐 PHP | 📅 2026-08-14：Yii2 代码标准检查
@@ -23,8 +23,8 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ## 基于 Yii2 的开源程序
 
-* [humhub](https://github.com/humhub/humhub) ⭐ 6,736 | 🐛 813 | 🌐 PHP | 📅 2026-08-23：开源社交网络，以前说 Yii 1 现在迁移到 Yii2。
-* [Fecshop](https://github.com/fancyecommerce/yii2_fecshop) ⭐ 5,264 | 🐛 4 | 🌐 PHP | 📅 2022-04-10 ：Fecshop 全称为 Fancy ECommerce Shop，是基于 PHP Yii2框架之上开发的一款优秀的开源电商系统。
+* [humhub](https://github.com/humhub/humhub) ⭐ 6,737 | 🐛 810 | 🌐 PHP | 📅 2026-08-24：开源社交网络，以前说 Yii 1 现在迁移到 Yii2。
+* [Fecshop](https://github.com/fancyecommerce/yii2_fecshop) ⭐ 5,265 | 🐛 4 | 🌐 PHP | 📅 2022-04-10 ：Fecshop 全称为 Fancy ECommerce Shop，是基于 PHP Yii2框架之上开发的一款优秀的开源电商系统。
 * [yii2-starter-kit](https://github.com/trntv/yii2-starter-kit) ⭐ 1,396 | 🐛 24 | 🌐 PHP | 📅 2026-03-09：Yii2 开箱即用
 * [zephir/luya](https://github.com/zephir/luya) ⭐ 804 | 🐛 4 | 🌐 PHP | 📅 2025-11-18：基于Yii2 CMS的编程框架。
 * [dotplant2](https://github.com/DevGroup-ru/dotplant2) ⭐ 633 | 🐛 44 | 🌐 PHP | 📅 2020-09-14：来自俄罗斯的电子商务CMS
@@ -76,7 +76,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 * [bizley/yii2-content-tools](https://github.com/bizley/yii2-content-tools) ⭐ 80 | 🐛 0 | 🌐 PHP | 📅 2021-04-30：Yii2 实现 [ContentTools](http://getcontenttools.com/) 编辑器
 * [bupy7/yii2-dynamic-fields](https://github.com/bupy7/yii2-dynamic-fields) ⚠️ Archived：表单动态增加行的组件（demo可以看[Adding dynamic field](http://formvalidation.io/examples/adding-dynamic-field/)）
 * [yii2-widget-linkpager](https://github.com/liyunfang/yii2-widget-linkpager) ⭐ 43 | 🐛 1 | 🌐 PHP | 📅 2017-09-12：带分页大小的分页栏
-* [lichunqiang/yii2-sweet-submit](https://github.com/lichunqiang/yii2-sweet-submit) ⭐ 27 | 🐛 0 | 🌐 PHP | 📅 2017-08-12：[sweetalert](https://github.com/t4t5/sweetalert) ⭐ 22,262 | 🐛 199 | 🌐 TypeScript | 📅 2023-04-15一个漂亮的弹出框
+* [lichunqiang/yii2-sweet-submit](https://github.com/lichunqiang/yii2-sweet-submit) ⭐ 27 | 🐛 0 | 🌐 PHP | 📅 2017-08-12：[sweetalert](https://github.com/t4t5/sweetalert) ⭐ 22,261 | 🐛 199 | 🌐 TypeScript | 📅 2023-04-15一个漂亮的弹出框
 * [yii2-ajaxform](https://github.com/lichunqiang/yii2-ajaxform) ⭐ 21 | 🐛 0 | 🌐 PHP | 📅 2019-05-08：通过ajax提交表单
 
 ## Extension 扩展

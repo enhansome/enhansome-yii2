@@ -78,10 +78,10 @@
             "archived": false,
             "id": 16685462,
             "language": "PHP",
-            "last_commit": "2026-08-23T15:28:43Z",
+            "last_commit": "2026-08-24T11:25:00Z",
             "owner": "humhub",
             "repo": "humhub",
-            "stars": 6736
+            "stars": 6737
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2022-04-10T12:05:42Z",
             "owner": "fecshop",
             "repo": "yii2_fecshop",
-            "stars": 5264
+            "stars": 5265
           }
         },
         {
@@ -1451,7 +1451,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:50:41.571Z",
+    "last_updated": "2026-08-24T14:08:13.878Z",
     "original_repository": "forecho/awesome-yii2",
     "original_repository_id": 37696487,
     "original_repository_sha": "7df0c0e0a474e28397604c04a1002b837862107c",
