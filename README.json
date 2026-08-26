@@ -78,10 +78,10 @@
             "archived": false,
             "id": 16685462,
             "language": "PHP",
-            "last_commit": "2026-08-24T22:25:19Z",
+            "last_commit": "2026-08-25T21:12:20Z",
             "owner": "humhub",
             "repo": "humhub",
-            "stars": 6738
+            "stars": 6737
           }
         },
         {
@@ -750,7 +750,7 @@
             "last_commit": "2026-08-03T09:06:15Z",
             "owner": "yiisoft",
             "repo": "yii2-queue",
-            "stars": 1063
+            "stars": 1064
           }
         },
         {
@@ -1451,7 +1451,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:00:12.400Z",
+    "last_updated": "2026-08-26T02:52:48.819Z",
     "original_repository": "forecho/awesome-yii2",
     "original_repository_id": 37696487,
     "original_repository_sha": "7df0c0e0a474e28397604c04a1002b837862107c",
