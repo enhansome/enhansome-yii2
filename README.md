@@ -23,8 +23,8 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ## 基于 Yii2 的开源程序
 
-* [humhub](https://github.com/humhub/humhub) ⭐ 6,737 | 🐛 817 | 🌐 PHP | 📅 2026-08-27：开源社交网络，以前说 Yii 1 现在迁移到 Yii2。
-* [Fecshop](https://github.com/fancyecommerce/yii2_fecshop) ⭐ 5,265 | 🐛 4 | 🌐 PHP | 📅 2022-04-10 ：Fecshop 全称为 Fancy ECommerce Shop，是基于 PHP Yii2框架之上开发的一款优秀的开源电商系统。
+* [humhub](https://github.com/humhub/humhub) ⭐ 6,736 | 🐛 815 | 🌐 PHP | 📅 2026-08-28：开源社交网络，以前说 Yii 1 现在迁移到 Yii2。
+* [Fecshop](https://github.com/fancyecommerce/yii2_fecshop) ⭐ 5,264 | 🐛 4 | 🌐 PHP | 📅 2022-04-10 ：Fecshop 全称为 Fancy ECommerce Shop，是基于 PHP Yii2框架之上开发的一款优秀的开源电商系统。
 * [yii2-starter-kit](https://github.com/trntv/yii2-starter-kit) ⭐ 1,396 | 🐛 24 | 🌐 PHP | 📅 2026-03-09：Yii2 开箱即用
 * [zephir/luya](https://github.com/zephir/luya) ⭐ 804 | 🐛 4 | 🌐 PHP | 📅 2025-11-18：基于Yii2 CMS的编程框架。
 * [dotplant2](https://github.com/DevGroup-ru/dotplant2) ⭐ 633 | 🐛 44 | 🌐 PHP | 📅 2020-09-14：来自俄罗斯的电子商务CMS
@@ -123,7 +123,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ## Themes 主题模板
 
-* [dmstr/yii2-adminlte-asset](https://github.com/dmstr/yii2-adminlte-asset) ⭐ 1,122 | 🐛 17 | 🌐 PHP | 📅 2025-10-20：大名鼎鼎的 [AdminLTE](https://github.com/almasaeed2010/AdminLTE) ⭐ 45,560 | 🐛 0 | 🌐 Astro | 📅 2026-08-26 开源后台，我现在很多后台就用这个。配合[Yii2 使用 AdminLTE 模板](http://www.getyii.com/topic/564)教程使用更佳。
+* [dmstr/yii2-adminlte-asset](https://github.com/dmstr/yii2-adminlte-asset) ⭐ 1,122 | 🐛 17 | 🌐 PHP | 📅 2025-10-20：大名鼎鼎的 [AdminLTE](https://github.com/almasaeed2010/AdminLTE) ⭐ 45,562 | 🐛 0 | 🌐 Astro | 📅 2026-08-26 开源后台，我现在很多后台就用这个。配合[Yii2 使用 AdminLTE 模板](http://www.getyii.com/topic/564)教程使用更佳。
 * [yiister/yii2-gentelella](https://github.com/yiister/yii2-gentelella) ⭐ 275 | 🐛 14 | 🌐 PHP | 📅 2025-02-02：Gentelella 后台模板，[在线体验地址](http://gentelella.yiister.ru/)
 * [yiister/yii2-adminlte](https://github.com/yiister/yii2-adminlte) ⭐ 28 | 🐛 6 | 🌐 PHP | 📅 2018-08-29：AdminLTE 后台模板的另一个选择，有做简单的 widget 封装，[在线体验地址](http://adminlte.yiister.ru/)
 
@@ -172,4 +172,4 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
