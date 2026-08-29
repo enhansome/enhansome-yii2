@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yii 2: The Fast, Secure and Professional PHP Framework",
+            "homepage": "http://www.yiiframework.com",
             "id": 3431193,
             "language": "PHP",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-20T21:35:09Z",
+            "open_issues": 332,
             "owner": "yiisoft",
             "repo": "yii2",
-            "stars": 14299
+            "stars": 14299,
+            "topics": [
+              "framework",
+              "hacktoberfest",
+              "php",
+              "php-framework",
+              "yii",
+              "yii2"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -26,12 +38,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yii 2.0 Community Cookbook",
+            "homepage": null,
             "id": 18465445,
             "language": "Makefile",
+            "license": null,
             "last_commit": "2024-07-03T12:22:07Z",
+            "open_issues": 55,
             "owner": "samdark",
             "repo": "yii2-cookbook",
-            "stars": 1440
+            "stars": 1440,
+            "topics": [
+              "book",
+              "cookbook",
+              "yii2"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -42,12 +63,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yii2 官方文档及其他文本的中文本土化项目，授权维护分支：",
+            "homepage": "https://github.com/yii2-chinesization/yii2",
             "id": 15524944,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2021-10-26T15:35:24Z",
+            "open_issues": 4,
             "owner": "yii2-chinesization",
             "repo": "yii2-zh-cn",
-            "stars": 278
+            "stars": 278,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -58,12 +84,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yii 2 coding standards",
+            "homepage": null,
             "id": 10550782,
             "language": "PHP",
+            "license": null,
             "last_commit": "2026-08-14T18:09:07Z",
+            "open_issues": 1,
             "owner": "yiisoft",
             "repo": "yii2-coding-standards",
-            "stars": 182
+            "stars": 182,
+            "topics": [
+              "codesniffer",
+              "coding-standards",
+              "hacktoberfest",
+              "yii2"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         }
@@ -80,12 +116,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HumHub is an Open Source Enterprise Social Network. Easy to install, intuitive to use and extendable with countless freely available modules.",
+            "homepage": "https://www.humhub.com",
             "id": 16685462,
             "language": "PHP",
-            "last_commit": "2026-08-28T13:11:40Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:00:14Z",
+            "open_issues": 816,
             "owner": "humhub",
             "repo": "humhub",
-            "stars": 6736
+            "stars": 6737,
+            "topics": [
+              "awesome",
+              "enterprise-social-networks",
+              "humhub",
+              "ldap",
+              "php",
+              "social-network",
+              "social-networking",
+              "social-networks",
+              "yii2"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -96,12 +147,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "yii2 ( PHP ) fecmall（fecshop） core code used for ecommerce shop 多语言多货币多入口的开源电商 B2C 商城，支持移动端vue, app, html5，微信小程序微店，微信小程序商城等",
+            "homepage": "http://www.fecmall.com",
             "id": 60491949,
             "language": "PHP",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-04-10T12:05:42Z",
+            "open_issues": 4,
             "owner": "fecshop",
             "repo": "yii2_fecshop",
-            "stars": 5264
+            "stars": 5264,
+            "topics": [
+              "b2c",
+              "cart",
+              "ecommerce",
+              "fecmall",
+              "fecshop",
+              "html5",
+              "php",
+              "shop",
+              "shopping",
+              "vue",
+              "yii",
+              "yii2",
+              "yii2-fecshop"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -112,12 +182,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yii2 Starter Kit",
+            "homepage": "http://yii2-starter-kit.terentev.net",
             "id": 21611022,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-09T17:11:38Z",
+            "open_issues": 24,
             "owner": "yii-starter-kit",
             "repo": "yii2-starter-kit",
-            "stars": 1396
+            "stars": 1396,
+            "topics": [
+              "adminlte3",
+              "bootstrap4",
+              "cms",
+              "docker",
+              "hacktoberfest",
+              "php",
+              "starter-kit",
+              "starter-template",
+              "yii2"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -128,12 +213,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LUYA is a scalable web framework and content management system with the goal to please developers, clients and users alike.",
+            "homepage": "https://luya.io",
             "id": 27535396,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2025-11-18T11:54:19Z",
+            "open_issues": 4,
             "owner": "luyadev",
             "repo": "luya",
-            "stars": 804
+            "stars": 804,
+            "topics": [
+              "admin",
+              "angular",
+              "bootstrap4",
+              "cms",
+              "hacktoberfest",
+              "javascript",
+              "luya",
+              "php",
+              "rest-api",
+              "yii2"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -144,12 +245,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "E-Commerce CMS - Yii Framework 2 (yii2, shop) ",
+            "homepage": "http://dotplant.ru/",
             "id": 26487641,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2020-09-14T06:54:34Z",
+            "open_issues": 44,
             "owner": "DevGroup-ru",
             "repo": "dotplant2",
-            "stars": 633
+            "stars": 633,
+            "topics": [
+              "cms",
+              "dotplant",
+              "dotplant2",
+              "e-commerce",
+              "php",
+              "seo",
+              "shop",
+              "shopping-cart",
+              "yii",
+              "yii2"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -160,12 +277,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy yii2 cms powered by Yii framework 2",
+            "homepage": "http://easyiicms.com",
             "id": 29267410,
             "language": "PHP",
+            "license": null,
             "last_commit": "2019-04-30T11:01:03Z",
+            "open_issues": 111,
             "owner": "noumo",
             "repo": "easyii",
-            "stars": 583
+            "stars": 583,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -176,12 +298,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example project implementing simple shop using Yii 2.0",
+            "homepage": null,
             "id": 31869102,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2021-03-02T22:15:42Z",
+            "open_issues": 2,
             "owner": "samdark",
             "repo": "yii2-shop",
-            "stars": 461
+            "stars": 461,
+            "topics": [
+              "example",
+              "shop",
+              "yii"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -192,12 +323,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yii2 community 请访问",
+            "homepage": "http://www.getyii.com/",
             "id": 28499921,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2023-08-04T12:03:47Z",
+            "open_issues": 11,
             "owner": "iiYii",
             "repo": "getyii",
-            "stars": 436
+            "stars": 436,
+            "topics": [
+              "bbs",
+              "getyii",
+              "php",
+              "yii",
+              "yii2"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -208,12 +350,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code for official Yii website",
+            "homepage": "http://yiiframework.com/",
             "id": 26328526,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T08:10:50Z",
+            "open_issues": 73,
             "owner": "yiisoft-contrib",
             "repo": "yiiframework.com",
-            "stars": 264
+            "stars": 264,
+            "topics": [
+              "php",
+              "website",
+              "yii",
+              "yii-framework"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -224,12 +376,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The whole galaxy system, you can customize it base on your requirements.",
+            "homepage": null,
             "id": 33912737,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2019-04-22T06:35:11Z",
+            "open_issues": 8,
             "owner": "yincart2",
             "repo": "galaxy",
-            "stars": 228
+            "stars": 228,
+            "topics": [
+              "b2b2c",
+              "b2c",
+              "mall",
+              "open-source",
+              "php",
+              "yii2"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -240,12 +404,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An agile shop based on Yii2. ",
+            "homepage": null,
             "id": 29327135,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2017-02-08T08:13:58Z",
+            "open_issues": 8,
             "owner": "funson86",
             "repo": "funshop",
-            "stars": 228
+            "stars": 228,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -256,12 +425,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Just example of application on AngularJS with server-side Yii2 Rest API.",
+            "homepage": null,
             "id": 17976110,
             "language": null,
+            "license": null,
             "last_commit": "2017-04-18T09:13:39Z",
+            "open_issues": 4,
             "owner": "githubjeka",
             "repo": "angular-yii2",
-            "stars": 202
+            "stars": 202,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -272,12 +446,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "powerful and modularity CMS,based on Yii2",
+            "homepage": "http://www.lulucms.com",
             "id": 36067794,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-06-02T02:26:10Z",
+            "open_issues": 6,
             "owner": "yiifans",
             "repo": "lulucms2",
-            "stars": 193
+            "stars": 193,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -288,12 +467,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "xiaoego.com源码，校园O2O购物平台",
+            "homepage": null,
             "id": 48897301,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2018-02-12T06:52:06Z",
+            "open_issues": 0,
             "owner": "daixianceng",
             "repo": "xiaoego.com",
-            "stars": 181
+            "stars": 181,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -304,12 +488,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yii2实现的问答,微信,文章系统",
+            "homepage": "http://demo.huajuan.me",
             "id": 28270574,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2017-04-17T08:32:22Z",
+            "open_issues": 2,
             "owner": "callmez",
             "repo": "huajuan",
-            "stars": 109
+            "stars": 109,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -320,12 +509,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hassium CMS - Yii Framework 2 (yii2, cms)",
+            "homepage": null,
             "id": 46508912,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2015-12-19T17:54:03Z",
+            "open_issues": 4,
             "owner": "hassiumsoft",
             "repo": "hasscms-app",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -336,12 +530,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "dcms2 basic on yii2",
+            "homepage": null,
             "id": 20053807,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2016-08-11T09:07:52Z",
+            "open_issues": 14,
             "owner": "djfly",
             "repo": "dcms2",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -352,12 +551,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Grom Platform на базе Yii2 Basic application template",
+            "homepage": null,
             "id": 28137480,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2015-06-03T08:33:05Z",
+            "open_issues": 0,
             "owner": "gromver",
             "repo": "yii2-platform-basic",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -368,12 +572,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "plusarchive.com sources for frontend",
+            "homepage": "https://plusarchive.com",
             "id": 228758193,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T00:45:32Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:23:08Z",
+            "open_issues": 0,
             "owner": "jamband",
             "repo": "plusarchive.com",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "music",
+              "nextjs",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         }
@@ -390,12 +603,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Balance accounting (bookkeeping) system based on debit and credit principle",
+            "homepage": null,
             "id": 55979106,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2019-07-02T11:15:31Z",
+            "open_issues": 0,
             "owner": "yii2tech",
             "repo": "balance",
-            "stars": 179
+            "stars": 179,
+            "topics": [
+              "accounting",
+              "balance",
+              "credit",
+              "debit",
+              "yii",
+              "yii2",
+              "yii2-extension"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -406,12 +632,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PDF Reports from HTML Views (Html to PDF formatter) for Yii 2.0",
+            "homepage": null,
             "id": 19834454,
             "language": "PHP",
+            "license": "BSD-3-Clause",
             "last_commit": "2019-08-02T16:49:49Z",
+            "open_issues": 9,
             "owner": "robregonm",
             "repo": "yii2-pdf",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         }
@@ -428,12 +659,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Auth manager for Yii2 (RBAC Manager)",
+            "homepage": null,
             "id": 14681791,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2023-07-08T00:03:20Z",
+            "open_issues": 193,
             "owner": "mdmsoft",
             "repo": "yii2-admin",
-            "stars": 1150
+            "stars": 1150,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -444,12 +680,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ABANDONED] Flexible user registration and authentication module for Yii2",
+            "homepage": "https://yii2-user.dektrium.com",
             "id": 14082447,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2025-11-11T18:11:50Z",
+            "open_issues": 104,
             "owner": "dektrium",
             "repo": "yii2-user",
-            "stars": 911
+            "stars": 911,
+            "topics": [
+              "yii2",
+              "yii2-extension",
+              "yii2-user"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -460,12 +705,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于Yii2实现的微信模块, 集成微信模拟器、多公众号管理、扩展开发接口,只需关注功能,微信开发的强劲引擎[停止开发, 仅供学习].",
+            "homepage": "http://huajuan.me/yii2-wechat",
             "id": 25248913,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2016-06-02T02:28:24Z",
+            "open_issues": 14,
             "owner": "callmez",
             "repo": "yii2-wechat",
-            "stars": 381
+            "stars": 381,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -476,12 +726,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web shell allows to run yii console commands using a browser",
+            "homepage": null,
             "id": 18795986,
             "language": "PHP",
+            "license": null,
             "last_commit": "2019-05-23T15:45:40Z",
+            "open_issues": 5,
             "owner": "samdark",
             "repo": "yii2-webshell",
-            "stars": 225
+            "stars": 225,
+            "topics": [
+              "shell",
+              "web-shell",
+              "yii2"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -492,12 +751,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yii2 Audit records and displays web/cli requests, database changes, php/js errors and associated data.",
+            "homepage": "https://bedezign.github.io/yii2-audit/",
             "id": 23378995,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2025-09-29T13:21:13Z",
+            "open_issues": 25,
             "owner": "bedezign",
             "repo": "yii2-audit",
-            "stars": 200
+            "stars": 200,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -508,12 +772,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yii2-images - behavior-based module for resizing, storing, caching and attaching images.",
+            "homepage": null,
             "id": 21939603,
             "language": "PHP",
+            "license": null,
             "last_commit": "2019-03-30T15:02:43Z",
+            "open_issues": 56,
             "owner": "CostaRico",
             "repo": "yii2-images",
-            "stars": 160
+            "stars": 160,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -524,12 +793,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yii2 REST Client",
+            "homepage": null,
             "id": 42018094,
             "language": "PHP",
+            "license": null,
             "last_commit": "2018-07-18T15:08:42Z",
+            "open_issues": 3,
             "owner": "zhuravljov",
             "repo": "yii2-rest",
-            "stars": 118
+            "stars": 118,
+            "topics": [
+              "module",
+              "rest",
+              "yii2"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -540,12 +818,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yii2 plugins system module with event manager and https://github.com/loveorigami/yii2-shortcodes-pack",
+            "homepage": null,
             "id": 40084051,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2019-03-12T11:10:42Z",
+            "open_issues": 0,
             "owner": "loveorigami",
             "repo": "yii2-plugins-system",
-            "stars": 114
+            "stars": 114,
+            "topics": [
+              "plugins",
+              "shortcode",
+              "shortcodes",
+              "yii2",
+              "yii2-plugins"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -556,12 +845,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yii2-notification-wrapper module renders a message from session flash (with ajax, pjax support and etc.) through Growl, Noty, Toastr and more libraries",
+            "homepage": null,
             "id": 54316696,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2021-06-03T07:58:28Z",
+            "open_issues": 3,
             "owner": "loveorigami",
             "repo": "yii2-notification-wrapper",
-            "stars": 76
+            "stars": 76,
+            "topics": [
+              "ajax",
+              "growl",
+              "notification-wrapper",
+              "noty",
+              "toastr",
+              "widget",
+              "yii2"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -572,12 +874,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Provides voting for any model :+1: :-1:",
+            "homepage": null,
             "id": 28711425,
             "language": "PHP",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-01-04T13:28:30Z",
+            "open_issues": 5,
             "owner": "chiliec",
             "repo": "yii2-vote",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "php",
+              "rating",
+              "vote",
+              "voting",
+              "yii2",
+              "yii2-extension"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -588,12 +902,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yii2 ExtJs5 RBAC+ACL",
+            "homepage": null,
             "id": 47086036,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2016-07-15T02:16:40Z",
+            "open_issues": 3,
             "owner": "daycats",
             "repo": "yii2-extjs-rbac",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -604,12 +923,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yii2 Cashier provides an interface to Stripe's subscription billing services.",
+            "homepage": null,
             "id": 58536005,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2022-12-22T15:33:20Z",
+            "open_issues": 7,
             "owner": "yii2mod",
             "repo": "yii2-cashier",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "yii2",
+              "yii2-cashier",
+              "yii2-extension",
+              "yii2-stripe",
+              "yii2-stripe-subscriptions"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -620,12 +950,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RBAC Auth manager for Yii2",
+            "homepage": null,
             "id": 42927225,
             "language": "PHP",
+            "license": null,
             "last_commit": "2020-07-19T02:25:20Z",
+            "open_issues": 0,
             "owner": "yiier",
             "repo": "yii2-rbac",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "rbac",
+              "yii2-extension",
+              "yii2-rbac"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -636,12 +975,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Bootstrap 3 enhanced ActiveForm for Yii 2",
+            "homepage": null,
             "id": 18367585,
             "language": "PHP",
+            "license": null,
             "last_commit": "2014-10-30T11:38:58Z",
+            "open_issues": 0,
             "owner": "codemix",
             "repo": "yii2-bs3activeform",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -652,12 +996,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Log for Humans for Yii2",
+            "homepage": null,
             "id": 113306071,
             "language": "PHP",
+            "license": null,
             "last_commit": "2020-02-14T14:09:04Z",
+            "open_issues": 0,
             "owner": "yiier",
             "repo": "yii2-humans-log",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "log",
+              "yii2-extension"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -668,12 +1020,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Common Settings at backend and could use at any place",
+            "homepage": null,
             "id": 27794804,
             "language": "PHP",
+            "license": null,
             "last_commit": "2015-02-06T01:46:54Z",
+            "open_issues": 4,
             "owner": "funson86",
             "repo": "yii2-setting",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         }
@@ -690,12 +1047,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Infinite AJAX scrolling for Yii2 ListView widget",
+            "homepage": "https://kop.github.io/yii2-scroll-pager/",
             "id": 15753049,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-12-08T08:28:50Z",
+            "open_issues": 46,
             "owner": "kop",
             "repo": "yii2-scroll-pager",
-            "stars": 178
+            "stars": 178,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -706,12 +1068,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ContentTools editor implementation for Yii 2",
+            "homepage": null,
             "id": 43975470,
             "language": "PHP",
+            "license": "Apache-2.0",
             "last_commit": "2021-04-30T08:07:19Z",
+            "open_issues": 0,
             "owner": "bizley",
             "repo": "yii2-content-tools",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "contenttools",
+              "hacktoberfest",
+              "widget",
+              "wysiwyg",
+              "yii2"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -722,12 +1095,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Widget for display dynamic fields, adding and removing their using Pjax.",
+            "homepage": null,
             "id": 32881707,
             "language": "PHP",
+            "license": "BSD-3-Clause",
             "last_commit": "2018-03-26T05:38:51Z",
+            "open_issues": 2,
             "owner": "bupy7",
             "repo": "yii2-dynamic-fields",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "dynamic",
+              "fields",
+              "yii2"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -738,12 +1120,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LinkPager widgets for Yii Framework 2.0",
+            "homepage": null,
             "id": 41467742,
             "language": "PHP",
+            "license": null,
             "last_commit": "2017-09-12T06:20:00Z",
+            "open_issues": 1,
             "owner": "pgyf",
             "repo": "yii2-widget-linkpager",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -754,12 +1141,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "sweet sumit using sweetalert",
+            "homepage": null,
             "id": 47067780,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2017-08-12T00:58:06Z",
+            "open_issues": 0,
             "owner": "lichunqiang",
             "repo": "yii2-sweet-submit",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "sweetalert",
+              "yii2",
+              "yii2-extension",
+              "yii2-sweetalert",
+              "yii2-widgets"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -770,12 +1168,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "submit ActiveForm via ajax",
+            "homepage": null,
             "id": 46793035,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2019-05-08T07:59:48Z",
+            "open_issues": 0,
             "owner": "lichunqiang",
             "repo": "yii2-ajaxform",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "ajax",
+              "yii-extension",
+              "yii2",
+              "yii2-ajaxform"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         }
@@ -792,12 +1200,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yii2 Queue Extension. Supports DB, Redis, RabbitMQ, Beanstalk and Gearman",
+            "homepage": "http://www.yiiframework.com",
             "id": 72430005,
             "language": "PHP",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-03T09:06:15Z",
+            "open_issues": 74,
             "owner": "yiisoft",
             "repo": "yii2-queue",
-            "stars": 1064
+            "stars": 1064,
+            "topics": [
+              "amqp",
+              "async",
+              "beanstalk",
+              "gearman",
+              "hacktoberfest",
+              "queue",
+              "rabbitmq",
+              "redis",
+              "yii2"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -808,12 +1231,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yii 2 imagine extension",
+            "homepage": "http://www.yiiframework.com",
             "id": 15568575,
             "language": "PHP",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-03T13:36:58Z",
+            "open_issues": 6,
             "owner": "yiisoft",
             "repo": "yii2-imagine",
-            "stars": 286
+            "stars": 286,
+            "topics": [
+              "hacktoberfest",
+              "image",
+              "images",
+              "imagine",
+              "thumbnails",
+              "yii",
+              "yii2"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -824,12 +1260,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extension Redactor WYSIWYG for Yii2 framework",
+            "homepage": null,
             "id": 12959597,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-04-15T01:47:07Z",
+            "open_issues": 52,
             "owner": "yiidoc",
             "repo": "yii2-redactor",
-            "stars": 185
+            "stars": 185,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -840,12 +1281,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Yii2 extension for crontab support",
+            "homepage": null,
             "id": 37658214,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2021-11-05T11:05:23Z",
+            "open_issues": 0,
             "owner": "yii2tech",
             "repo": "crontab",
-            "stars": 184
+            "stars": 184,
+            "topics": [
+              "cron",
+              "cronjob",
+              "crontab",
+              "yii",
+              "yii2",
+              "yii2-extension"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -856,12 +1309,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "yii2 with swagger-php",
+            "homepage": "https://packagist.org/packages/light/yii2-swagger",
             "id": 47503711,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-01-19T04:55:21Z",
+            "open_issues": 0,
             "owner": "lichunqiang",
             "repo": "yii2-swagger",
-            "stars": 153
+            "stars": 153,
+            "topics": [
+              "restful",
+              "swagger-php",
+              "yii",
+              "yii2",
+              "yii2-swagger"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -872,12 +1336,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Exporting PHP to Excel",
+            "homepage": null,
             "id": 31763341,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-08-31T08:52:19Z",
+            "open_issues": 26,
             "owner": "moonlandsoft",
             "repo": "yii2-phpexcel",
-            "stars": 138
+            "stars": 138,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -888,12 +1357,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yii2 extension for Mobile-Detect library",
+            "homepage": null,
             "id": 32892278,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2020-09-02T11:34:28Z",
+            "open_issues": 2,
             "owner": "alexandernst",
             "repo": "yii2-device-detect",
-            "stars": 135
+            "stars": 135,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -904,12 +1378,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MeiliSearch Extension For Yii2 Framework",
+            "homepage": null,
             "id": 457685505,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2022-02-21T14:59:27Z",
+            "open_issues": 0,
             "owner": "zhuzixian520",
             "repo": "yii2-meilisearch",
-            "stars": 116
+            "stars": 116,
+            "topics": [
+              "meilisearch",
+              "php",
+              "search",
+              "yii2"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -920,12 +1404,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Semantic UI extension for Yii2",
+            "homepage": null,
             "id": 29108451,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2018-05-03T14:53:41Z",
+            "open_issues": 7,
             "owner": "zelenin",
             "repo": "yii2-semantic-ui",
-            "stars": 112
+            "stars": 112,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -936,12 +1425,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sentry extension for Yii 2.0",
+            "homepage": null,
             "id": 57024046,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2020-02-01T17:52:57Z",
+            "open_issues": 8,
             "owner": "hellowearemito",
             "repo": "yii2-sentry",
-            "stars": 91
+            "stars": 91,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -952,12 +1446,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Generate the schema from an existing database",
+            "homepage": "https://www.yiiframework.com/extension/yii2-schemadump",
             "id": 27130826,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2022-05-26T18:50:38Z",
+            "open_issues": 4,
             "owner": "jamband",
             "repo": "yii2-schemadump",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "database",
+              "php",
+              "yii",
+              "yii2-extension"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -968,12 +1472,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yii2 SMS extension",
+            "homepage": null,
             "id": 36271514,
             "language": "PHP",
+            "license": "BSD-3-Clause",
             "last_commit": "2018-02-11T15:03:19Z",
+            "open_issues": 1,
             "owner": "daixianceng",
             "repo": "yii2-smser",
-            "stars": 86
+            "stars": 86,
+            "topics": [
+              "yii2-sms-extension",
+              "yii2-smser"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -984,12 +1496,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "yii2 rbac yii2 rest RBAC Auth manager for Yii2 RESTful(YII2权限管理rbac--rest接口方式) ",
+            "homepage": "https://windhoney.gitbooks.io/yii2-rest-rbac/",
             "id": 101857145,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-08-17T05:58:40Z",
+            "open_issues": 1,
             "owner": "windhoney",
             "repo": "yii2-rest-rbac",
-            "stars": 81
+            "stars": 81,
+            "topics": [
+              "oauth",
+              "rbac",
+              "restful",
+              "yii-extension",
+              "yii2",
+              "yii2-admin",
+              "yii2-advanced",
+              "yii2-rbac",
+              "yii2-rest",
+              "yii2-rest-rbac",
+              "yii2-restful-api"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -1000,12 +1529,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yii2 beanstalk web and console component",
+            "homepage": null,
             "id": 26915613,
             "language": "PHP",
+            "license": null,
             "last_commit": "2021-05-21T08:47:55Z",
+            "open_issues": 5,
             "owner": "udokmeci",
             "repo": "yii2-beanstalk",
-            "stars": 70
+            "stars": 70,
+            "topics": [
+              "yii",
+              "yii2-beanstalk"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -1016,12 +1553,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ECharts widget for Yii2.",
+            "homepage": null,
             "id": 54466930,
             "language": "PHP",
+            "license": "BSD-3-Clause",
             "last_commit": "2020-04-14T02:02:30Z",
+            "open_issues": 2,
             "owner": "daixianceng",
             "repo": "yii2-echarts",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "yii2-echarts"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -1032,12 +1576,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "yii2-cronjobs",
+            "homepage": null,
             "id": 21898429,
             "language": "PHP",
+            "license": null,
             "last_commit": "2021-04-16T11:40:58Z",
+            "open_issues": 7,
             "owner": "DenisOgr",
             "repo": "yii2-cronjobs",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -1048,12 +1597,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advanced GridView extension for Yii framework 2",
+            "homepage": null,
             "id": 64160372,
             "language": "PHP",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-04-19T05:56:52Z",
+            "open_issues": 1,
             "owner": "yiister",
             "repo": "yii2-advanced-grid",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -1064,12 +1618,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yii2 Ace Editor widget",
+            "homepage": "http://github.com/trntv/yii2-starter-kit",
             "id": 22145686,
             "language": "PHP",
+            "license": null,
             "last_commit": "2018-04-04T06:43:27Z",
+            "open_issues": 2,
             "owner": "trntv",
             "repo": "yii2-aceeditor",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -1080,12 +1639,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yii2 Aliyun OSS       Yii2 阿里云 OSS",
+            "homepage": null,
             "id": 54087278,
             "language": "PHP",
+            "license": null,
             "last_commit": "2020-06-08T06:35:55Z",
+            "open_issues": 0,
             "owner": "yiier",
             "repo": "yii2-aliyun-oss",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "aliyun-oss",
+              "oss",
+              "yii2-extension"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -1096,12 +1664,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Information about the server",
+            "homepage": "http://abhi1693.github.io/yii2-system-info",
             "id": 30833259,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2020-11-20T16:40:03Z",
+            "open_issues": 1,
             "owner": "abhi1693",
             "repo": "yii2-system-info",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -1112,12 +1685,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yii2 mailgun extension",
+            "homepage": null,
             "id": 35473495,
             "language": "PHP",
+            "license": null,
             "last_commit": "2023-04-21T20:30:46Z",
+            "open_issues": 1,
             "owner": "boundstate",
             "repo": "yii2-mailgun",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "email",
+              "mail",
+              "mailer",
+              "mailgun",
+              "yii",
+              "yii2"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -1128,12 +1713,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "yii2 backup database and send email yii2 备份数据库自动发邮件给你",
+            "homepage": null,
             "id": 38241201,
             "language": "PHP",
+            "license": null,
             "last_commit": "2016-08-01T06:16:26Z",
+            "open_issues": 0,
             "owner": "yiier",
             "repo": "yii2-backup",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -1144,12 +1734,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " yii2 Extended for bootstrap-contextmenu",
+            "homepage": null,
             "id": 41069793,
             "language": "PHP",
+            "license": null,
             "last_commit": "2019-07-19T15:21:56Z",
+            "open_issues": 2,
             "owner": "pgyf",
             "repo": "yii2-contextmenu",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -1160,12 +1755,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 46249004,
             "language": "PHP",
+            "license": null,
             "last_commit": "2016-05-13T17:11:34Z",
+            "open_issues": 3,
             "owner": "idarex",
             "repo": "pingpp-yii2",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -1176,12 +1776,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate migration file from an existing database",
+            "homepage": "https://github.com/Hzhihua/yii2-dump",
             "id": 102996543,
             "language": "PHP",
+            "license": "BSD-3-Clause",
             "last_commit": "2018-05-02T06:44:07Z",
+            "open_issues": 3,
             "owner": "Hzhihua",
             "repo": "yii2-dump",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -1192,12 +1797,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Qiniu integration for the Yii framework",
+            "homepage": null,
             "id": 60023612,
             "language": "PHP",
+            "license": null,
             "last_commit": "2016-10-17T01:59:06Z",
+            "open_issues": 1,
             "owner": "dcb9",
             "repo": "yii2-qiniu",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -1208,12 +1818,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate online api document by code annotation for yii2 easily",
+            "homepage": null,
             "id": 361443688,
             "language": "PHP",
+            "license": null,
             "last_commit": "2021-04-27T01:45:59Z",
+            "open_issues": 0,
             "owner": "zhuzixian520",
             "repo": "yii2-api-doc",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "api",
+              "yii2-extension"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -1224,12 +1842,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "extend yii2-ActiceRecord And yii2-ActiveQuery with use mysql json make simple.",
+            "homepage": null,
             "id": 153735603,
             "language": "PHP",
+            "license": null,
             "last_commit": "2018-12-12T07:40:48Z",
+            "open_issues": 0,
             "owner": "imyangjin",
             "repo": "yii2-mysql-json",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -1240,12 +1863,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Yunpian sdk for YII2",
+            "homepage": null,
             "id": 33489973,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2015-12-10T10:02:42Z",
+            "open_issues": 1,
             "owner": "dcb9",
             "repo": "yii2-yunpian",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -1256,12 +1884,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yii2 Login ReturnUrl filter 中文说明：登录之后自动跳转登录之前的页面",
+            "homepage": "http://www.getyii.com/",
             "id": 53997422,
             "language": "PHP",
+            "license": "BSD-3-Clause",
             "last_commit": "2020-02-17T14:29:05Z",
+            "open_issues": 0,
             "owner": "yiier",
             "repo": "yii2-return-url",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "yii",
+              "yii2-behaviors",
+              "yii2-extension"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -1272,12 +1909,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a responsive social bar widget for Yii2 projects.",
+            "homepage": null,
             "id": 42184609,
             "language": "PHP",
+            "license": null,
             "last_commit": "2024-05-03T07:45:08Z",
+            "open_issues": 0,
             "owner": "imanilchaudhari",
             "repo": "yii2-rrssb",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -1288,12 +1930,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "smser for Yii2",
+            "homepage": null,
             "id": 118583052,
             "language": "PHP",
+            "license": null,
             "last_commit": "2018-06-14T10:55:35Z",
+            "open_issues": 0,
             "owner": "yiier",
             "repo": "yii2-smser",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "yii2-extension",
+              "yii2-sms",
+              "yii2-smser"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -1304,12 +1955,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Store different kind of actions (Like ❤️, Follow 👁, Star ⭐, Block ...) in one table via ActiveRecord Polymorphic Association.",
+            "homepage": null,
             "id": 114237624,
             "language": "PHP",
+            "license": null,
             "last_commit": "2020-04-19T05:55:09Z",
+            "open_issues": 0,
             "owner": "yiier",
             "repo": "yii2-action-store",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "yii",
+              "yii2-extension"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -1320,12 +1979,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yii2 notification 站内信 通知",
+            "homepage": null,
             "id": 119659094,
             "language": "PHP",
+            "license": "BSD-3-Clause",
             "last_commit": "2021-08-31T09:05:22Z",
+            "open_issues": 0,
             "owner": "yiier",
             "repo": "yii2-notification",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "yii2-extension"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         }
@@ -1342,12 +2008,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AdminLTE Asset Bundle for Backend Theme in Yii2 Framework",
+            "homepage": null,
             "id": 24685208,
             "language": "PHP",
+            "license": null,
             "last_commit": "2025-10-20T18:16:40Z",
+            "open_issues": 17,
             "owner": "dmstr",
             "repo": "yii2-adminlte-asset",
-            "stars": 1122
+            "stars": 1122,
+            "topics": [
+              "admin-dashboard",
+              "admin-ui",
+              "adminlte",
+              "yii2",
+              "yii2-asset"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -1358,12 +2035,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free admin template for backend",
+            "homepage": null,
             "id": 59427924,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2025-02-02T08:30:45Z",
+            "open_issues": 14,
             "owner": "yiister",
             "repo": "yii2-gentelella",
-            "stars": 275
+            "stars": 275,
+            "topics": [
+              "backend",
+              "gentelella",
+              "template",
+              "theme",
+              "yii2",
+              "yii2-admin",
+              "yii2-extension",
+              "yii2-widgets"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -1374,12 +2065,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 48654006,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2018-08-29T05:10:06Z",
+            "open_issues": 6,
             "owner": "yiister",
             "repo": "yii2-adminlte",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         }
@@ -1396,12 +2092,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The nested sets behavior for the Yii framework.",
+            "homepage": null,
             "id": 9871134,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2017-08-04T16:58:49Z",
+            "open_issues": 37,
             "owner": "creocoder",
             "repo": "yii2-nested-sets",
-            "stars": 444
+            "stars": 444,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -1412,12 +2113,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yii2 port of the yii-multilingual-behavior.",
+            "homepage": null,
             "id": 22041131,
             "language": "PHP",
+            "license": null,
             "last_commit": "2022-09-06T12:56:45Z",
+            "open_issues": 26,
             "owner": "OmgDef",
             "repo": "yii2-multilingual-behavior",
-            "stars": 143
+            "stars": 143,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -1428,12 +2134,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The taggable behavior for the Yii framework.",
+            "homepage": null,
             "id": 28864288,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2018-10-02T11:51:11Z",
+            "open_issues": 13,
             "owner": "creocoder",
             "repo": "yii2-taggable",
-            "stars": 133
+            "stars": 133,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -1444,12 +2155,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of useful behaviors for Yii Framework 2.0",
+            "homepage": null,
             "id": 27187689,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2019-11-02T17:40:38Z",
+            "open_issues": 3,
             "owner": "yii2mod",
             "repo": "yii2-behaviors",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "yii2",
+              "yii2-behaviors",
+              "yii2-carbon-behavior",
+              "yii2-extension",
+              "yii2-purify-behavior"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -1460,12 +2182,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nested Intervals Behavior for Yii2",
+            "homepage": null,
             "id": 39594986,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2018-08-06T08:38:10Z",
+            "open_issues": 0,
             "owner": "paulzi",
             "repo": "yii2-nested-intervals",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -1476,12 +2203,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Soft delete behavior for Yii2",
+            "homepage": null,
             "id": 37762218,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2017-09-13T23:13:07Z",
+            "open_issues": 1,
             "owner": "cornernote",
             "repo": "yii2-softdelete",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         }
@@ -1498,12 +2230,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of useful helper functions for Yii Framework 2.0",
+            "homepage": "http://demos.krajee.com/helpers",
             "id": 14754250,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2024-05-02T02:12:08Z",
+            "open_issues": 0,
             "owner": "kartik-v",
             "repo": "yii2-helpers",
-            "stars": 89
+            "stars": 89,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -1514,12 +2251,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helper for unifying cache tag names with invalidation support in yii2",
+            "homepage": null,
             "id": 27085791,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2017-09-22T08:29:50Z",
+            "open_issues": 0,
             "owner": "DevGroup-ru",
             "repo": "yii2-tag-dependency-helper",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "cache",
+              "cache-control",
+              "helper",
+              "invalidation-support",
+              "yii2",
+              "yii2-cache",
+              "yii2-extension"
+            ]
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         },
@@ -1530,12 +2280,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "获取yii2项目所有路由，方便权限控制",
+            "homepage": null,
             "id": 119511605,
             "language": "PHP",
+            "license": null,
             "last_commit": "2018-03-19T02:14:20Z",
+            "open_issues": 0,
             "owner": "xinnianq",
             "repo": "yii2-routes",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
         }
@@ -1544,15 +2299,22 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:23:03.807Z",
+    "last_updated": "2026-08-29T04:26:48.684Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Yii2 干货集",
+      "homepage": null,
       "id": 37696487,
       "language": null,
+      "license": "MIT",
       "last_commit": "2022-02-12T14:56:00Z",
+      "open_issues": 0,
       "owner": "forecho",
       "repo": "awesome-yii2",
-      "stars": 1816
+      "stars": 1816,
+      "topics": [
+        "yii2"
+      ]
     },
     "original_repository_sha": "7df0c0e0a474e28397604c04a1002b837862107c",
     "enhanced_repository": "enhansome/enhansome-yii2",
