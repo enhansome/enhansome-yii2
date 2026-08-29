@@ -123,7 +123,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ## Themes 主题模板
 
-* [dmstr/yii2-adminlte-asset](https://github.com/dmstr/yii2-adminlte-asset) ⭐ 1,122 | 🐛 17 | 🌐 PHP | 📅 2025-10-20：大名鼎鼎的 [AdminLTE](https://github.com/almasaeed2010/AdminLTE) ⭐ 45,563 | 🐛 0 | 🌐 Astro | 📅 2026-08-26 开源后台，我现在很多后台就用这个。配合[Yii2 使用 AdminLTE 模板](http://www.getyii.com/topic/564)教程使用更佳。
+* [dmstr/yii2-adminlte-asset](https://github.com/dmstr/yii2-adminlte-asset) ⭐ 1,122 | 🐛 17 | 🌐 PHP | 📅 2025-10-20：大名鼎鼎的 [AdminLTE](https://github.com/almasaeed2010/AdminLTE) ⭐ 45,564 | 🐛 0 | 🌐 Astro | 📅 2026-08-26 开源后台，我现在很多后台就用这个。配合[Yii2 使用 AdminLTE 模板](http://www.getyii.com/topic/564)教程使用更佳。
 * [yiister/yii2-gentelella](https://github.com/yiister/yii2-gentelella) ⭐ 275 | 🐛 14 | 🌐 PHP | 📅 2025-02-02：Gentelella 后台模板，[在线体验地址](http://gentelella.yiister.ru/)
 * [yiister/yii2-adminlte](https://github.com/yiister/yii2-adminlte) ⭐ 28 | 🐛 6 | 🌐 PHP | 📅 2018-08-29：AdminLTE 后台模板的另一个选择，有做简单的 widget 封装，[在线体验地址](http://adminlte.yiister.ru/)
 
