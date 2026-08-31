@@ -93,7 +93,7 @@
             "open_issues": 1,
             "owner": "yiisoft",
             "repo": "yii2-coding-standards",
-            "stars": 182,
+            "stars": 181,
             "topics": [
               "codesniffer",
               "coding-standards",
@@ -121,7 +121,7 @@
             "id": 16685462,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T20:01:32Z",
+            "last_commit": "2026-08-31T07:39:32Z",
             "open_issues": 813,
             "owner": "humhub",
             "repo": "humhub",
@@ -156,7 +156,7 @@
             "open_issues": 4,
             "owner": "fecshop",
             "repo": "yii2_fecshop",
-            "stars": 5264,
+            "stars": 5263,
             "topics": [
               "b2c",
               "cart",
@@ -222,7 +222,7 @@
             "open_issues": 4,
             "owner": "luyadev",
             "repo": "luya",
-            "stars": 804,
+            "stars": 803,
             "topics": [
               "admin",
               "angular",
@@ -668,7 +668,7 @@
             "open_issues": 193,
             "owner": "mdmsoft",
             "repo": "yii2-admin",
-            "stars": 1150,
+            "stars": 1149,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
@@ -735,7 +735,7 @@
             "open_issues": 5,
             "owner": "samdark",
             "repo": "yii2-webshell",
-            "stars": 225,
+            "stars": 224,
             "topics": [
               "shell",
               "web-shell",
@@ -2017,7 +2017,7 @@
             "open_issues": 17,
             "owner": "dmstr",
             "repo": "yii2-adminlte-asset",
-            "stars": 1122,
+            "stars": 1121,
             "topics": [
               "admin-dashboard",
               "admin-ui",
@@ -2299,7 +2299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T07:28:04.930Z",
+    "last_updated": "2026-08-31T07:41:37.165Z",
     "original_repository_info": {
       "archived": false,
       "description": "Yii2 干货集",
@@ -2311,7 +2311,7 @@
       "open_issues": 0,
       "owner": "forecho",
       "repo": "awesome-yii2",
-      "stars": 1816,
+      "stars": 1815,
       "topics": [
         "yii2"
       ]
