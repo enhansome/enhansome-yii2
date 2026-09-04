@@ -23,7 +23,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ## 基于 Yii2 的开源程序
 
-* [humhub](https://github.com/humhub/humhub) ⭐ 6,742 | 🐛 814 | 🌐 PHP | 📅 2026-09-03：开源社交网络，以前说 Yii 1 现在迁移到 Yii2。
+* [humhub](https://github.com/humhub/humhub) ⭐ 6,742 | 🐛 815 | 🌐 PHP | 📅 2026-09-04：开源社交网络，以前说 Yii 1 现在迁移到 Yii2。
 * [Fecshop](https://github.com/fancyecommerce/yii2_fecshop) ⭐ 5,263 | 🐛 4 | 🌐 PHP | 📅 2022-04-10 ：Fecshop 全称为 Fancy ECommerce Shop，是基于 PHP Yii2框架之上开发的一款优秀的开源电商系统。
 * [yii2-starter-kit](https://github.com/trntv/yii2-starter-kit) ⭐ 1,396 | 🐛 24 | 🌐 PHP | 📅 2026-03-09：Yii2 开箱即用
 * [zephir/luya](https://github.com/zephir/luya) ⭐ 803 | 🐛 4 | 🌐 PHP | 📅 2025-11-18：基于Yii2 CMS的编程框架。
@@ -54,7 +54,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 ## Module 模块
 
 * [mdmsoft/yii2-admin](https://github.com/mdmsoft/yii2-admin) ⭐ 1,149 | 🐛 193 | 🌐 PHP | 📅 2023-07-08 RBAC Manager 基于角色的权限管理
-* [yii2-user](https://github.com/dektrium/yii2-user) ⭐ 911 | 🐛 104 | 🌐 PHP | 📅 2025-11-11
+* [yii2-user](https://github.com/dektrium/yii2-user) ⭐ 912 | 🐛 104 | 🌐 PHP | 📅 2025-11-11
 * [yii2-wechat](https://github.com/callmez/yii2-wechat) ⭐ 381 | 🐛 14 | 🌐 PHP | 📅 2016-06-02：基于Yii2实现的微信模块
 * [yii2-webshell](https://github.com/samdark/yii2-webshell) ⭐ 224 | 🐛 5 | 🌐 PHP | 📅 2019-05-23 在 web 下运行shell
 * [bedezign/yii2-audit](https://github.com/bedezign/yii2-audit) ⭐ 200 | 🐛 25 | 🌐 PHP | 📅 2025-09-29：记录和显示web/cli请求，数据库更改php/js错误和相关数据。
@@ -73,7 +73,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 ## Widgets 小部件
 
 * [kop/yii2-scroll-pager](https://github.com/kop/yii2-scroll-pager) ⭐ 178 | 🐛 46 | 🌐 PHP | 📅 2023-12-08：瀑布滚动翻页
-* [bizley/yii2-content-tools](https://github.com/bizley/yii2-content-tools) ⭐ 80 | 🐛 0 | 🌐 PHP | 📅 2021-04-30：Yii2 实现 [ContentTools](http://getcontenttools.com/) 编辑器
+* [bizley/yii2-content-tools](https://github.com/bizley/yii2-content-tools) ⭐ 77 | 🐛 0 | 🌐 PHP | 📅 2021-04-30：Yii2 实现 [ContentTools](http://getcontenttools.com/) 编辑器
 * [bupy7/yii2-dynamic-fields](https://github.com/bupy7/yii2-dynamic-fields) ⚠️ Archived：表单动态增加行的组件（demo可以看[Adding dynamic field](http://formvalidation.io/examples/adding-dynamic-field/)）
 * [yii2-widget-linkpager](https://github.com/liyunfang/yii2-widget-linkpager) ⭐ 43 | 🐛 1 | 🌐 PHP | 📅 2017-09-12：带分页大小的分页栏
 * [lichunqiang/yii2-sweet-submit](https://github.com/lichunqiang/yii2-sweet-submit) ⭐ 27 | 🐛 0 | 🌐 PHP | 📅 2017-08-12：[sweetalert](https://github.com/t4t5/sweetalert) ⭐ 22,259 | 🐛 199 | 🌐 TypeScript | 📅 2023-04-15一个漂亮的弹出框
@@ -123,7 +123,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ## Themes 主题模板
 
-* [dmstr/yii2-adminlte-asset](https://github.com/dmstr/yii2-adminlte-asset) ⭐ 1,121 | 🐛 17 | 🌐 PHP | 📅 2025-10-20：大名鼎鼎的 [AdminLTE](https://github.com/almasaeed2010/AdminLTE) ⭐ 45,569 | 🐛 2 | 🌐 Astro | 📅 2026-09-02 开源后台，我现在很多后台就用这个。配合[Yii2 使用 AdminLTE 模板](http://www.getyii.com/topic/564)教程使用更佳。
+* [dmstr/yii2-adminlte-asset](https://github.com/dmstr/yii2-adminlte-asset) ⭐ 1,120 | 🐛 17 | 🌐 PHP | 📅 2025-10-20：大名鼎鼎的 [AdminLTE](https://github.com/almasaeed2010/AdminLTE) ⭐ 45,571 | 🐛 2 | 🌐 Astro | 📅 2026-09-02 开源后台，我现在很多后台就用这个。配合[Yii2 使用 AdminLTE 模板](http://www.getyii.com/topic/564)教程使用更佳。
 * [yiister/yii2-gentelella](https://github.com/yiister/yii2-gentelella) ⭐ 275 | 🐛 14 | 🌐 PHP | 📅 2025-02-02：Gentelella 后台模板，[在线体验地址](http://gentelella.yiister.ru/)
 * [yiister/yii2-adminlte](https://github.com/yiister/yii2-adminlte) ⭐ 28 | 🐛 6 | 🌐 PHP | 📅 2018-08-29：AdminLTE 后台模板的另一个选择，有做简单的 widget 封装，[在线体验地址](http://adminlte.yiister.ru/)
 
@@ -172,4 +172,4 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._

@@ -121,8 +121,8 @@
             "id": 16685462,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T03:00:15Z",
-            "open_issues": 814,
+            "last_commit": "2026-09-04T03:00:14Z",
+            "open_issues": 815,
             "owner": "humhub",
             "repo": "humhub",
             "stars": 6742,
@@ -689,7 +689,7 @@
             "open_issues": 104,
             "owner": "dektrium",
             "repo": "yii2-user",
-            "stars": 911,
+            "stars": 912,
             "topics": [
               "yii2",
               "yii2-extension",
@@ -1077,7 +1077,7 @@
             "open_issues": 0,
             "owner": "bizley",
             "repo": "yii2-content-tools",
-            "stars": 80,
+            "stars": 77,
             "topics": [
               "contenttools",
               "hacktoberfest",
@@ -2017,7 +2017,7 @@
             "open_issues": 17,
             "owner": "dmstr",
             "repo": "yii2-adminlte-asset",
-            "stars": 1121,
+            "stars": 1120,
             "topics": [
               "admin-dashboard",
               "admin-ui",
@@ -2299,7 +2299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T06:30:25.640Z",
+    "last_updated": "2026-09-04T06:33:02.650Z",
     "original_repository_info": {
       "archived": false,
       "description": "Yii2 干货集",
