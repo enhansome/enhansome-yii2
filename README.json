@@ -16,10 +16,10 @@
             "language": "PHP",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-05T12:23:11Z",
-            "open_issues": 333,
+            "open_issues": 335,
             "owner": "yiisoft",
             "repo": "yii2",
-            "stars": 14296,
+            "stars": 14295,
             "topics": [
               "framework",
               "hacktoberfest",
@@ -156,7 +156,7 @@
             "open_issues": 4,
             "owner": "fecshop",
             "repo": "yii2_fecshop",
-            "stars": 5263,
+            "stars": 5261,
             "topics": [
               "b2c",
               "cart",
@@ -2299,7 +2299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T06:31:14.866Z",
+    "last_updated": "2026-09-07T06:38:50.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "Yii2 干货集",
