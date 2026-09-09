@@ -121,11 +121,11 @@
             "id": 16685462,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T15:36:33Z",
-            "open_issues": 811,
+            "last_commit": "2026-09-08T20:53:18Z",
+            "open_issues": 813,
             "owner": "humhub",
             "repo": "humhub",
-            "stars": 6742,
+            "stars": 6743,
             "topics": [
               "awesome",
               "enterprise-social-networks",
@@ -307,7 +307,7 @@
             "open_issues": 2,
             "owner": "samdark",
             "repo": "yii2-shop",
-            "stars": 461,
+            "stars": 460,
             "topics": [
               "example",
               "shop",
@@ -2299,7 +2299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T06:33:14.836Z",
+    "last_updated": "2026-09-09T06:45:01.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "Yii2 干货集",
@@ -2311,7 +2311,7 @@
       "open_issues": 0,
       "owner": "forecho",
       "repo": "awesome-yii2",
-      "stars": 1814,
+      "stars": 1813,
       "topics": [
         "yii2"
       ]
