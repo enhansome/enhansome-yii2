@@ -19,7 +19,7 @@
             "open_issues": 335,
             "owner": "yiisoft",
             "repo": "yii2",
-            "stars": 14293,
+            "stars": 14292,
             "topics": [
               "framework",
               "hacktoberfest",
@@ -121,8 +121,8 @@
             "id": 16685462,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T06:22:00Z",
-            "open_issues": 813,
+            "last_commit": "2026-09-12T03:00:15Z",
+            "open_issues": 815,
             "owner": "humhub",
             "repo": "humhub",
             "stars": 6743,
@@ -156,7 +156,7 @@
             "open_issues": 4,
             "owner": "fecshop",
             "repo": "yii2_fecshop",
-            "stars": 5260,
+            "stars": 5259,
             "topics": [
               "b2c",
               "cart",
@@ -2299,7 +2299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T06:38:46.846Z",
+    "last_updated": "2026-09-12T06:32:00.736Z",
     "original_repository_info": {
       "archived": false,
       "description": "Yii2 干货集",
