@@ -19,7 +19,7 @@
             "open_issues": 335,
             "owner": "yiisoft",
             "repo": "yii2",
-            "stars": 14292,
+            "stars": 14290,
             "topics": [
               "framework",
               "hacktoberfest",
@@ -47,7 +47,7 @@
             "open_issues": 55,
             "owner": "samdark",
             "repo": "yii2-cookbook",
-            "stars": 1440,
+            "stars": 1438,
             "topics": [
               "book",
               "cookbook",
@@ -121,11 +121,11 @@
             "id": 16685462,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T22:11:14Z",
-            "open_issues": 816,
+            "last_commit": "2026-09-14T03:00:15Z",
+            "open_issues": 818,
             "owner": "humhub",
             "repo": "humhub",
-            "stars": 6742,
+            "stars": 6744,
             "topics": [
               "awesome",
               "enterprise-social-networks",
@@ -156,7 +156,7 @@
             "open_issues": 4,
             "owner": "fecshop",
             "repo": "yii2_fecshop",
-            "stars": 5259,
+            "stars": 5258,
             "topics": [
               "b2c",
               "cart",
@@ -668,7 +668,7 @@
             "open_issues": 193,
             "owner": "mdmsoft",
             "repo": "yii2-admin",
-            "stars": 1148,
+            "stars": 1147,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
@@ -781,7 +781,7 @@
             "open_issues": 56,
             "owner": "CostaRico",
             "repo": "yii2-images",
-            "stars": 160,
+            "stars": 159,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
@@ -2299,7 +2299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T06:47:27.930Z",
+    "last_updated": "2026-09-14T07:08:44.184Z",
     "original_repository_info": {
       "archived": false,
       "description": "Yii2 干货集",
