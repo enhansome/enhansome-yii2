@@ -19,7 +19,7 @@
             "open_issues": 334,
             "owner": "yiisoft",
             "repo": "yii2",
-            "stars": 14291,
+            "stars": 14290,
             "topics": [
               "framework",
               "hacktoberfest",
@@ -121,11 +121,11 @@
             "id": 16685462,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-17T20:03:13Z",
-            "open_issues": 819,
+            "last_commit": "2026-09-18T18:41:00Z",
+            "open_issues": 814,
             "owner": "humhub",
             "repo": "humhub",
-            "stars": 6747,
+            "stars": 6748,
             "topics": [
               "awesome",
               "enterprise-social-networks",
@@ -2299,7 +2299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T06:41:52.251Z",
+    "last_updated": "2026-09-19T06:40:15.151Z",
     "original_repository_info": {
       "archived": false,
       "description": "Yii2 干货集",
