@@ -121,11 +121,11 @@
             "id": 16685462,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T18:41:00Z",
-            "open_issues": 814,
+            "last_commit": "2026-09-20T03:00:14Z",
+            "open_issues": 811,
             "owner": "humhub",
             "repo": "humhub",
-            "stars": 6748,
+            "stars": 6747,
             "topics": [
               "awesome",
               "enterprise-social-networks",
@@ -1209,7 +1209,7 @@
             "open_issues": 73,
             "owner": "yiisoft",
             "repo": "yii2-queue",
-            "stars": 1064,
+            "stars": 1063,
             "topics": [
               "amqp",
               "async",
@@ -2299,7 +2299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T06:40:15.151Z",
+    "last_updated": "2026-09-20T07:04:04.129Z",
     "original_repository_info": {
       "archived": false,
       "description": "Yii2 干货集",
@@ -2311,7 +2311,7 @@
       "open_issues": 0,
       "owner": "forecho",
       "repo": "awesome-yii2",
-      "stars": 1813,
+      "stars": 1812,
       "topics": [
         "yii2"
       ]
