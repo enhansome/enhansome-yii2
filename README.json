@@ -15,8 +15,8 @@
             "id": 3431193,
             "language": "PHP",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-17T08:48:24Z",
-            "open_issues": 334,
+            "last_commit": "2026-09-20T12:42:12Z",
+            "open_issues": 338,
             "owner": "yiisoft",
             "repo": "yii2",
             "stars": 14290,
@@ -93,7 +93,7 @@
             "open_issues": 1,
             "owner": "yiisoft",
             "repo": "yii2-coding-standards",
-            "stars": 181,
+            "stars": 180,
             "topics": [
               "codesniffer",
               "coding-standards",
@@ -125,7 +125,7 @@
             "open_issues": 811,
             "owner": "humhub",
             "repo": "humhub",
-            "stars": 6747,
+            "stars": 6746,
             "topics": [
               "awesome",
               "enterprise-social-networks",
@@ -254,7 +254,7 @@
             "open_issues": 44,
             "owner": "DevGroup-ru",
             "repo": "dotplant2",
-            "stars": 633,
+            "stars": 632,
             "topics": [
               "cms",
               "dotplant",
@@ -332,7 +332,7 @@
             "open_issues": 11,
             "owner": "iiYii",
             "repo": "getyii",
-            "stars": 436,
+            "stars": 435,
             "topics": [
               "bbs",
               "getyii",
@@ -689,7 +689,7 @@
             "open_issues": 104,
             "owner": "dektrium",
             "repo": "yii2-user",
-            "stars": 912,
+            "stars": 911,
             "topics": [
               "yii2",
               "yii2-extension",
@@ -1205,8 +1205,8 @@
             "id": 72430005,
             "language": "PHP",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-10T15:37:13Z",
-            "open_issues": 73,
+            "last_commit": "2026-09-20T18:43:40Z",
+            "open_issues": 74,
             "owner": "yiisoft",
             "repo": "yii2-queue",
             "stars": 1063,
@@ -1236,8 +1236,8 @@
             "id": 15568575,
             "language": "PHP",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-05T12:27:32Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-20T18:29:53Z",
+            "open_issues": 7,
             "owner": "yiisoft",
             "repo": "yii2-imagine",
             "stars": 286,
@@ -2017,7 +2017,7 @@
             "open_issues": 17,
             "owner": "dmstr",
             "repo": "yii2-adminlte-asset",
-            "stars": 1120,
+            "stars": 1119,
             "topics": [
               "admin-dashboard",
               "admin-ui",
@@ -2299,7 +2299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T07:04:04.129Z",
+    "last_updated": "2026-09-21T07:14:15.790Z",
     "original_repository_info": {
       "archived": false,
       "description": "Yii2 干货集",
