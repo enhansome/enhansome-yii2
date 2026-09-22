@@ -19,7 +19,7 @@
             "open_issues": 338,
             "owner": "yiisoft",
             "repo": "yii2",
-            "stars": 14290,
+            "stars": 14289,
             "topics": [
               "framework",
               "hacktoberfest",
@@ -125,7 +125,7 @@
             "open_issues": 811,
             "owner": "humhub",
             "repo": "humhub",
-            "stars": 6746,
+            "stars": 6745,
             "topics": [
               "awesome",
               "enterprise-social-networks",
@@ -689,7 +689,7 @@
             "open_issues": 104,
             "owner": "dektrium",
             "repo": "yii2-user",
-            "stars": 911,
+            "stars": 910,
             "topics": [
               "yii2",
               "yii2-extension",
@@ -1205,8 +1205,8 @@
             "id": 72430005,
             "language": "PHP",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-20T18:43:40Z",
-            "open_issues": 74,
+            "last_commit": "2026-09-22T00:34:01Z",
+            "open_issues": 75,
             "owner": "yiisoft",
             "repo": "yii2-queue",
             "stars": 1063,
@@ -2299,7 +2299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T07:14:15.790Z",
+    "last_updated": "2026-09-22T06:49:03.444Z",
     "original_repository_info": {
       "archived": false,
       "description": "Yii2 干货集",
