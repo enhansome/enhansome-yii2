@@ -15,8 +15,8 @@
             "id": 3431193,
             "language": "PHP",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-20T12:42:12Z",
-            "open_issues": 338,
+            "last_commit": "2026-09-23T00:56:07Z",
+            "open_issues": 336,
             "owner": "yiisoft",
             "repo": "yii2",
             "stars": 14289,
@@ -121,7 +121,7 @@
             "id": 16685462,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-20T03:00:14Z",
+            "last_commit": "2026-09-23T03:00:16Z",
             "open_issues": 811,
             "owner": "humhub",
             "repo": "humhub",
@@ -455,7 +455,7 @@
             "open_issues": 6,
             "owner": "yiifans",
             "repo": "lulucms2",
-            "stars": 193,
+            "stars": 192,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
@@ -2299,7 +2299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T06:49:03.444Z",
+    "last_updated": "2026-09-23T06:43:21.712Z",
     "original_repository_info": {
       "archived": false,
       "description": "Yii2 干货集",
@@ -2311,7 +2311,7 @@
       "open_issues": 0,
       "owner": "forecho",
       "repo": "awesome-yii2",
-      "stars": 1812,
+      "stars": 1811,
       "topics": [
         "yii2"
       ]
