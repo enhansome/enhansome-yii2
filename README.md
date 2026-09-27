@@ -11,7 +11,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ## Docs 文档
 
-* [Yii Framework 2.0 中文权威指南 ](https://github.com/yiisoft/yii2/tree/master/docs/guide-zh-CN) ⭐ 14,291 | 🐛 332 | 🌐 PHP | 📅 2026-09-25
+* [Yii Framework 2.0 中文权威指南 ](https://github.com/yiisoft/yii2/tree/master/docs/guide-zh-CN) ⭐ 14,290 | 🐛 331 | 🌐 PHP | 📅 2026-09-26
 * [yii2-cookbook](https://github.com/samdark/yii2-cookbook) ⭐ 1,438 | 🐛 55 | 🌐 Makefile | 📅 2024-07-03
 * [Yii2 官方文档及其他文本的中文本土化项目](https://github.com/yii2-chinesization/yii2-zh-cn) ⭐ 277 | 🐛 4 | 🌐 PHP | 📅 2021-10-26
 * [yii2-coding-standards](https://github.com/yiisoft/yii2-coding-standards) ⭐ 180 | 🐛 1 | 🌐 PHP | 📅 2026-08-14：Yii2 代码标准检查
@@ -23,7 +23,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ## 基于 Yii2 的开源程序
 
-* [humhub](https://github.com/humhub/humhub) ⭐ 6,744 | 🐛 816 | 🌐 PHP | 📅 2026-09-26：开源社交网络，以前说 Yii 1 现在迁移到 Yii2。
+* [humhub](https://github.com/humhub/humhub) ⭐ 6,744 | 🐛 816 | 🌐 PHP | 📅 2026-09-27：开源社交网络，以前说 Yii 1 现在迁移到 Yii2。
 * [Fecshop](https://github.com/fancyecommerce/yii2_fecshop) ⭐ 5,263 | 🐛 4 | 🌐 PHP | 📅 2026-09-05 ：Fecshop 全称为 Fancy ECommerce Shop，是基于 PHP Yii2框架之上开发的一款优秀的开源电商系统。
 * [yii2-starter-kit](https://github.com/trntv/yii2-starter-kit) ⭐ 1,396 | 🐛 24 | 🌐 PHP | 📅 2026-03-09：Yii2 开箱即用
 * [zephir/luya](https://github.com/zephir/luya) ⭐ 802 | 🐛 4 | 🌐 PHP | 📅 2025-11-18：基于Yii2 CMS的编程框架。
@@ -81,7 +81,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ## Extension 扩展
 
-* [zhuravljov/yii2-queue](https://github.com/zhuravljov/yii2-queue) ⭐ 1,063 | 🐛 74 | 🌐 PHP | 📅 2026-09-24：有望成为官网异步扩展的队列
+* [zhuravljov/yii2-queue](https://github.com/zhuravljov/yii2-queue) ⭐ 1,063 | 🐛 73 | 🌐 PHP | 📅 2026-09-26：有望成为官网异步扩展的队列
 * [yii2-imagine](https://github.com/yiisoft/yii2-imagine) ⭐ 286 | 🐛 6 | 🌐 PHP | 📅 2026-09-24：图片处理，缩略图生成
 * [yiidoc/yii2-redactor](https://github.com/yiidoc/yii2-redactor) ⭐ 185 | 🐛 52 | 🌐 JavaScript | 📅 2022-04-15：大名鼎鼎的 [Redactor](http://imperavi.com/redactor/) 在线编辑器
 * [crontab](https://github.com/yii2tech/crontab) ⚠️ Archived：Yii2 定时任务
@@ -129,7 +129,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ## Behaviors 行为
 
-* [creocoder/yii2-nested-sets](https://github.com/creocoder/yii2-nested-sets) ⭐ 444 | 🐛 37 | 🌐 PHP | 📅 2017-08-04：无限极嵌套分类
+* [creocoder/yii2-nested-sets](https://github.com/creocoder/yii2-nested-sets) ⭐ 445 | 🐛 37 | 🌐 PHP | 📅 2017-08-04：无限极嵌套分类
 * [OmgDef/yii2-multilingual-behavior](https://github.com/OmgDef/yii2-multilingual-behavior) ⭐ 143 | 🐛 26 | 🌐 PHP | 📅 2022-09-06：多语言文章解决方案
 * [creocoder/yii2-taggable](https://github.com/creocoder/yii2-taggable) ⭐ 133 | 🐛 13 | 🌐 PHP | 📅 2018-10-02：文章标签解决方案
 * [yii2mod/yii2-behaviors](https://github.com/yii2mod/yii2-behaviors) ⭐ 31 | 🐛 3 | 🌐 PHP | 📅 2019-11-02：两个行为，CarbonBehavior 处理跟时间日期有关系的事情。PurifyBehavior 使用 HTMLPurifier 保证输出数据的安全性。
@@ -172,4 +172,4 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._

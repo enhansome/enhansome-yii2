@@ -15,11 +15,11 @@
             "id": 3431193,
             "language": "PHP",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-25T11:47:04Z",
-            "open_issues": 332,
+            "last_commit": "2026-09-26T14:40:30Z",
+            "open_issues": 331,
             "owner": "yiisoft",
             "repo": "yii2",
-            "stars": 14291,
+            "stars": 14290,
             "topics": [
               "framework",
               "hacktoberfest",
@@ -121,7 +121,7 @@
             "id": 16685462,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-26T06:24:27Z",
+            "last_commit": "2026-09-27T03:00:15Z",
             "open_issues": 816,
             "owner": "humhub",
             "repo": "humhub",
@@ -1205,8 +1205,8 @@
             "id": 72430005,
             "language": "PHP",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-24T14:17:37Z",
-            "open_issues": 74,
+            "last_commit": "2026-09-26T12:01:37Z",
+            "open_issues": 73,
             "owner": "yiisoft",
             "repo": "yii2-queue",
             "stars": 1063,
@@ -2101,7 +2101,7 @@
             "open_issues": 37,
             "owner": "creocoder",
             "repo": "yii2-nested-sets",
-            "stars": 444,
+            "stars": 445,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
@@ -2299,7 +2299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T06:39:34.405Z",
+    "last_updated": "2026-09-27T07:06:46.106Z",
     "original_repository_info": {
       "archived": false,
       "description": "Yii2 干货集",
