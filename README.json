@@ -121,11 +121,11 @@
             "id": 16685462,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-04T03:00:14Z",
-            "open_issues": 809,
+            "last_commit": "2026-10-05T07:23:07Z",
+            "open_issues": 808,
             "owner": "humhub",
             "repo": "humhub",
-            "stars": 6748,
+            "stars": 6750,
             "topics": [
               "awesome",
               "enterprise-social-networks",
@@ -356,7 +356,7 @@
             "language": "HTML",
             "license": "NOASSERTION",
             "last_commit": "2026-08-27T08:10:50Z",
-            "open_issues": 73,
+            "open_issues": 74,
             "owner": "yiisoft-contrib",
             "repo": "yiiframework.com",
             "stars": 264,
@@ -1669,7 +1669,7 @@
             "id": 30833259,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2020-11-20T16:40:03Z",
+            "last_commit": "2026-10-04T19:42:02Z",
             "open_issues": 1,
             "owner": "abhi1693",
             "repo": "yii2-system-info",
@@ -2299,7 +2299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T07:26:35.702Z",
+    "last_updated": "2026-10-05T07:42:28.839Z",
     "original_repository_info": {
       "archived": false,
       "description": "Yii2 干货集",

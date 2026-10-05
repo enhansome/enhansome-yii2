@@ -23,7 +23,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ## 基于 Yii2 的开源程序
 
-* [humhub](https://github.com/humhub/humhub) ⭐ 6,748 | 🐛 809 | 🌐 PHP | 📅 2026-10-04：开源社交网络，以前说 Yii 1 现在迁移到 Yii2。
+* [humhub](https://github.com/humhub/humhub) ⭐ 6,750 | 🐛 808 | 🌐 PHP | 📅 2026-10-05：开源社交网络，以前说 Yii 1 现在迁移到 Yii2。
 * [Fecshop](https://github.com/fancyecommerce/yii2_fecshop) ⭐ 5,260 | 🐛 4 | 🌐 PHP | 📅 2026-09-05 ：Fecshop 全称为 Fancy ECommerce Shop，是基于 PHP Yii2框架之上开发的一款优秀的开源电商系统。
 * [yii2-starter-kit](https://github.com/trntv/yii2-starter-kit) ⭐ 1,396 | 🐛 25 | 🌐 PHP | 📅 2026-03-09：Yii2 开箱即用
 * [zephir/luya](https://github.com/zephir/luya) ⭐ 802 | 🐛 4 | 🌐 PHP | 📅 2025-11-18：基于Yii2 CMS的编程框架。
@@ -31,7 +31,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 * [EasyiiCMS](https://github.com/noumo/easyii) ⭐ 583 | 🐛 111 | 🌐 PHP | 📅 2019-04-30：基于 Yii2 的 CMS 系统
 * [yii2-shop](https://github.com/samdark/yii2-shop) ⭐ 460 | 🐛 2 | 🌐 PHP | 📅 2021-03-02：使用Yii 2.0实现简单商店的示例项目
 * [GetYii](https://github.com/iiyii/getyii) ⭐ 435 | 🐛 11 | 🌐 PHP | 📅 2023-08-04：论坛
-* [yiisoft-contrib/yiiframework.com](https://github.com/yiisoft-contrib/yiiframework.com) ⭐ 264 | 🐛 73 | 🌐 HTML | 📅 2026-08-27：新版官网首页正在开发中
+* [yiisoft-contrib/yiiframework.com](https://github.com/yiisoft-contrib/yiiframework.com) ⭐ 264 | 🐛 74 | 🌐 HTML | 📅 2026-08-27：新版官网首页正在开发中
 * [yincart2](https://github.com/yincart2/galaxy) ⭐ 228 | 🐛 8 | 🌐 CSS | 📅 2019-04-22：电商星系系统，提供零售、批发、特卖、垂直电商、分销、O2O、C2C、移动电商、微信电商、社交电商、P2P、众筹等电商解决方案，根据需要选择不同的模块组合
 * [funshop](https://github.com/funson86/funshop) ⭐ 228 | 🐛 8 | 🌐 PHP | 📅 2017-02-08：一个灵活的商城。
 * [githubjeka/angular-yii2](https://github.com/githubjeka/angular-yii2) ⭐ 202 | 🐛 4 | 📅 2017-04-18：yii2 restful + angular 实现前后端分离
@@ -76,7 +76,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 * [bizley/yii2-content-tools](https://github.com/bizley/yii2-content-tools) ⭐ 77 | 🐛 0 | 🌐 PHP | 📅 2021-04-30：Yii2 实现 [ContentTools](http://getcontenttools.com/) 编辑器
 * [bupy7/yii2-dynamic-fields](https://github.com/bupy7/yii2-dynamic-fields) ⚠️ Archived：表单动态增加行的组件（demo可以看[Adding dynamic field](http://formvalidation.io/examples/adding-dynamic-field/)）
 * [yii2-widget-linkpager](https://github.com/liyunfang/yii2-widget-linkpager) ⭐ 43 | 🐛 1 | 🌐 PHP | 📅 2017-09-12：带分页大小的分页栏
-* [lichunqiang/yii2-sweet-submit](https://github.com/lichunqiang/yii2-sweet-submit) ⭐ 27 | 🐛 0 | 🌐 PHP | 📅 2017-08-12：[sweetalert](https://github.com/t4t5/sweetalert) ⭐ 22,253 | 🐛 200 | 🌐 TypeScript | 📅 2023-04-15一个漂亮的弹出框
+* [lichunqiang/yii2-sweet-submit](https://github.com/lichunqiang/yii2-sweet-submit) ⭐ 27 | 🐛 0 | 🌐 PHP | 📅 2017-08-12：[sweetalert](https://github.com/t4t5/sweetalert) ⭐ 22,255 | 🐛 200 | 🌐 TypeScript | 📅 2023-04-15一个漂亮的弹出框
 * [yii2-ajaxform](https://github.com/lichunqiang/yii2-ajaxform) ⭐ 21 | 🐛 0 | 🌐 PHP | 📅 2019-05-08：通过ajax提交表单
 
 ## Extension 扩展
@@ -100,7 +100,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 * [yiister/yii2-advanced-grid](https://github.com/yiister/yii2-advanced-grid) ⭐ 47 | 🐛 1 | 🌐 PHP | 📅 2024-04-19：高级版的 grid，有[在线 demo](http://yiister.ru/projects/advanced-grid) 体验。
 * [trntv/yii2-aceeditor](https://github.com/trntv/yii2-aceeditor) ⭐ 43 | 🐛 2 | 🌐 PHP | 📅 2018-04-04：Yii2 封装 [ace 在线编辑器](https://ace.c9.io/)
 * [yiier/yii2-aliyun-oss](https://github.com/yiier/yii2-aliyun-oss) ⭐ 43 | 🐛 0 | 🌐 PHP | 📅 2020-06-08：基于官网 SDK 封装的 Yii2 使用阿里云OSS。
-* [abhi1693/yii2-system-info](https://github.com/abhi1693/yii2-system-info) ⭐ 32 | 🐛 1 | 🌐 PHP | 📅 2020-11-20：获取 Windows 或者 Linux 系统信息。
+* [abhi1693/yii2-system-info](https://github.com/abhi1693/yii2-system-info) ⭐ 32 | 🐛 1 | 🌐 PHP | 📅 2026-10-04：获取 Windows 或者 Linux 系统信息。
 * [boundstate/yii2-mailgun](https://github.com/boundstate/yii2-mailgun) ⭐ 28 | 🐛 1 | 🌐 PHP | 📅 2023-04-21：mailgun 邮箱服务扩展。
 * [yiier/yii2-backup](https://github.com/yiier/yii2-backup) ⭐ 26 | 🐛 0 | 🌐 PHP | 📅 2016-08-01：通过命令备份数据库的扩展，可以添加到定时任务实现定时备份发送到 Email。
 * [yii2-contextmenu](https://github.com/liyunfang/yii2-contextmenu) ⭐ 24 | 🐛 2 | 🌐 PHP | 📅 2019-07-19：Yii2 grid行右击操作
@@ -123,7 +123,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ## Themes 主题模板
 
-* [dmstr/yii2-adminlte-asset](https://github.com/dmstr/yii2-adminlte-asset) ⭐ 1,119 | 🐛 17 | 🌐 PHP | 📅 2025-10-20：大名鼎鼎的 [AdminLTE](https://github.com/almasaeed2010/AdminLTE) ⭐ 45,634 | 🐛 11 | 🌐 Astro | 📅 2026-10-01 开源后台，我现在很多后台就用这个。配合[Yii2 使用 AdminLTE 模板](http://www.getyii.com/topic/564)教程使用更佳。
+* [dmstr/yii2-adminlte-asset](https://github.com/dmstr/yii2-adminlte-asset) ⭐ 1,119 | 🐛 17 | 🌐 PHP | 📅 2025-10-20：大名鼎鼎的 [AdminLTE](https://github.com/almasaeed2010/AdminLTE) ⭐ 45,634 | 🐛 13 | 🌐 Astro | 📅 2026-10-01 开源后台，我现在很多后台就用这个。配合[Yii2 使用 AdminLTE 模板](http://www.getyii.com/topic/564)教程使用更佳。
 * [yiister/yii2-gentelella](https://github.com/yiister/yii2-gentelella) ⭐ 275 | 🐛 14 | 🌐 PHP | 📅 2025-02-02：Gentelella 后台模板，[在线体验地址](http://gentelella.yiister.ru/)
 * [yiister/yii2-adminlte](https://github.com/yiister/yii2-adminlte) ⭐ 28 | 🐛 6 | 🌐 PHP | 📅 2018-08-29：AdminLTE 后台模板的另一个选择，有做简单的 widget 封装，[在线体验地址](http://adminlte.yiister.ru/)
 
@@ -172,4 +172,4 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
