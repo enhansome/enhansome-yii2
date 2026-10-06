@@ -11,7 +11,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ## Docs 文档
 
-* [Yii Framework 2.0 中文权威指南 ](https://github.com/yiisoft/yii2/tree/master/docs/guide-zh-CN) ⭐ 14,285 | 🐛 308 | 🌐 PHP | 📅 2026-09-26
+* [Yii Framework 2.0 中文权威指南 ](https://github.com/yiisoft/yii2/tree/master/docs/guide-zh-CN) ⭐ 14,284 | 🐛 308 | 🌐 PHP | 📅 2026-09-26
 * [yii2-cookbook](https://github.com/samdark/yii2-cookbook) ⭐ 1,437 | 🐛 55 | 🌐 Makefile | 📅 2024-07-03
 * [Yii2 官方文档及其他文本的中文本土化项目](https://github.com/yii2-chinesization/yii2-zh-cn) ⭐ 277 | 🐛 4 | 🌐 PHP | 📅 2021-10-26
 * [yii2-coding-standards](https://github.com/yiisoft/yii2-coding-standards) ⭐ 180 | 🐛 1 | 🌐 PHP | 📅 2026-08-14：Yii2 代码标准检查
@@ -54,7 +54,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 ## Module 模块
 
 * [mdmsoft/yii2-admin](https://github.com/mdmsoft/yii2-admin) ⭐ 1,147 | 🐛 193 | 🌐 PHP | 📅 2023-07-08 RBAC Manager 基于角色的权限管理
-* [yii2-user](https://github.com/dektrium/yii2-user) ⭐ 910 | 🐛 104 | 🌐 PHP | 📅 2025-11-11
+* [yii2-user](https://github.com/dektrium/yii2-user) ⭐ 909 | 🐛 104 | 🌐 PHP | 📅 2025-11-11
 * [yii2-wechat](https://github.com/callmez/yii2-wechat) ⭐ 381 | 🐛 14 | 🌐 PHP | 📅 2016-06-02：基于Yii2实现的微信模块
 * [yii2-webshell](https://github.com/samdark/yii2-webshell) ⭐ 224 | 🐛 5 | 🌐 PHP | 📅 2019-05-23 在 web 下运行shell
 * [bedezign/yii2-audit](https://github.com/bedezign/yii2-audit) ⭐ 200 | 🐛 25 | 🌐 PHP | 📅 2025-09-29：记录和显示web/cli请求，数据库更改php/js错误和相关数据。

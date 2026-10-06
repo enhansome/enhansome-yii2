@@ -19,7 +19,7 @@
             "open_issues": 308,
             "owner": "yiisoft",
             "repo": "yii2",
-            "stars": 14285,
+            "stars": 14284,
             "topics": [
               "framework",
               "hacktoberfest",
@@ -689,7 +689,7 @@
             "open_issues": 104,
             "owner": "dektrium",
             "repo": "yii2-user",
-            "stars": 910,
+            "stars": 909,
             "topics": [
               "yii2",
               "yii2-extension",
@@ -2299,7 +2299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T08:09:56.909Z",
+    "last_updated": "2026-10-06T11:04:33.747Z",
     "original_repository_info": {
       "archived": false,
       "description": "Yii2 干货集",
