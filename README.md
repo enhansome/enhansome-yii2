@@ -11,7 +11,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ## Docs 文档
 
-* [Yii Framework 2.0 中文权威指南 ](https://github.com/yiisoft/yii2/tree/master/docs/guide-zh-CN) ⭐ 14,282 | 🐛 307 | 🌐 PHP | 📅 2026-09-26
+* [Yii Framework 2.0 中文权威指南 ](https://github.com/yiisoft/yii2/tree/master/docs/guide-zh-CN) ⭐ 14,283 | 🐛 309 | 🌐 PHP | 📅 2026-10-07
 * [yii2-cookbook](https://github.com/samdark/yii2-cookbook) ⭐ 1,437 | 🐛 55 | 🌐 Makefile | 📅 2024-07-03
 * [Yii2 官方文档及其他文本的中文本土化项目](https://github.com/yii2-chinesization/yii2-zh-cn) ⭐ 277 | 🐛 4 | 🌐 PHP | 📅 2021-10-26
 * [yii2-coding-standards](https://github.com/yiisoft/yii2-coding-standards) ⭐ 180 | 🐛 1 | 🌐 PHP | 📅 2026-08-14：Yii2 代码标准检查
@@ -23,15 +23,15 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ## 基于 Yii2 的开源程序
 
-* [humhub](https://github.com/humhub/humhub) ⭐ 6,751 | 🐛 805 | 🌐 PHP | 📅 2026-10-07：开源社交网络，以前说 Yii 1 现在迁移到 Yii2。
+* [humhub](https://github.com/humhub/humhub) ⭐ 6,752 | 🐛 811 | 🌐 PHP | 📅 2026-10-08：开源社交网络，以前说 Yii 1 现在迁移到 Yii2。
 * [Fecshop](https://github.com/fancyecommerce/yii2_fecshop) ⭐ 5,260 | 🐛 4 | 🌐 PHP | 📅 2026-09-05 ：Fecshop 全称为 Fancy ECommerce Shop，是基于 PHP Yii2框架之上开发的一款优秀的开源电商系统。
-* [yii2-starter-kit](https://github.com/trntv/yii2-starter-kit) ⭐ 1,395 | 🐛 25 | 🌐 PHP | 📅 2026-03-09：Yii2 开箱即用
+* [yii2-starter-kit](https://github.com/trntv/yii2-starter-kit) ⭐ 1,396 | 🐛 25 | 🌐 PHP | 📅 2026-03-09：Yii2 开箱即用
 * [zephir/luya](https://github.com/zephir/luya) ⭐ 802 | 🐛 4 | 🌐 PHP | 📅 2025-11-18：基于Yii2 CMS的编程框架。
 * [dotplant2](https://github.com/DevGroup-ru/dotplant2) ⭐ 632 | 🐛 44 | 🌐 PHP | 📅 2020-09-14：来自俄罗斯的电子商务CMS
 * [EasyiiCMS](https://github.com/noumo/easyii) ⭐ 582 | 🐛 111 | 🌐 PHP | 📅 2019-04-30：基于 Yii2 的 CMS 系统
 * [yii2-shop](https://github.com/samdark/yii2-shop) ⭐ 460 | 🐛 2 | 🌐 PHP | 📅 2021-03-02：使用Yii 2.0实现简单商店的示例项目
 * [GetYii](https://github.com/iiyii/getyii) ⭐ 435 | 🐛 11 | 🌐 PHP | 📅 2023-08-04：论坛
-* [yiisoft-contrib/yiiframework.com](https://github.com/yiisoft-contrib/yiiframework.com) ⭐ 264 | 🐛 74 | 🌐 HTML | 📅 2026-08-27：新版官网首页正在开发中
+* [yiisoft-contrib/yiiframework.com](https://github.com/yiisoft-contrib/yiiframework.com) ⭐ 264 | 🐛 73 | 🌐 HTML | 📅 2026-10-07：新版官网首页正在开发中
 * [yincart2](https://github.com/yincart2/galaxy) ⭐ 228 | 🐛 8 | 🌐 CSS | 📅 2019-04-22：电商星系系统，提供零售、批发、特卖、垂直电商、分销、O2O、C2C、移动电商、微信电商、社交电商、P2P、众筹等电商解决方案，根据需要选择不同的模块组合
 * [funshop](https://github.com/funson86/funshop) ⭐ 228 | 🐛 8 | 🌐 PHP | 📅 2017-02-08：一个灵活的商城。
 * [githubjeka/angular-yii2](https://github.com/githubjeka/angular-yii2) ⭐ 202 | 🐛 4 | 📅 2017-04-18：yii2 restful + angular 实现前后端分离
@@ -81,8 +81,8 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ## Extension 扩展
 
-* [zhuravljov/yii2-queue](https://github.com/zhuravljov/yii2-queue) ⭐ 1,063 | 🐛 74 | 🌐 PHP | 📅 2026-10-06：有望成为官网异步扩展的队列
-* [yii2-imagine](https://github.com/yiisoft/yii2-imagine) ⭐ 286 | 🐛 7 | 🌐 PHP | 📅 2026-10-06：图片处理，缩略图生成
+* [zhuravljov/yii2-queue](https://github.com/zhuravljov/yii2-queue) ⭐ 1,064 | 🐛 74 | 🌐 PHP | 📅 2026-10-06：有望成为官网异步扩展的队列
+* [yii2-imagine](https://github.com/yiisoft/yii2-imagine) ⭐ 286 | 🐛 6 | 🌐 PHP | 📅 2026-10-07：图片处理，缩略图生成
 * [yiidoc/yii2-redactor](https://github.com/yiidoc/yii2-redactor) ⭐ 185 | 🐛 52 | 🌐 JavaScript | 📅 2022-04-15：大名鼎鼎的 [Redactor](http://imperavi.com/redactor/) 在线编辑器
 * [crontab](https://github.com/yii2tech/crontab) ⚠️ Archived：Yii2 定时任务
 * [lichunqiang/yii2-swagger](https://github.com/lichunqiang/yii2-swagger) ⭐ 153 | 🐛 0 | 🌐 PHP | 📅 2026-01-19：Yii2 结合 [swagger](http://swagger.io/) 让写 API 文档不再是难事。[Demo 地址](https://github.com/lichunqiang/yii2-swagger-demo) ⭐ 60 | 🐛 1 | 🌐 PHP | 📅 2017-10-11
@@ -123,7 +123,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ## Themes 主题模板
 
-* [dmstr/yii2-adminlte-asset](https://github.com/dmstr/yii2-adminlte-asset) ⭐ 1,119 | 🐛 17 | 🌐 PHP | 📅 2025-10-20：大名鼎鼎的 [AdminLTE](https://github.com/almasaeed2010/AdminLTE) ⭐ 45,640 | 🐛 11 | 🌐 Astro | 📅 2026-10-01 开源后台，我现在很多后台就用这个。配合[Yii2 使用 AdminLTE 模板](http://www.getyii.com/topic/564)教程使用更佳。
+* [dmstr/yii2-adminlte-asset](https://github.com/dmstr/yii2-adminlte-asset) ⭐ 1,119 | 🐛 17 | 🌐 PHP | 📅 2025-10-20：大名鼎鼎的 [AdminLTE](https://github.com/almasaeed2010/AdminLTE) ⭐ 45,642 | 🐛 5 | 🌐 Astro | 📅 2026-10-08 开源后台，我现在很多后台就用这个。配合[Yii2 使用 AdminLTE 模板](http://www.getyii.com/topic/564)教程使用更佳。
 * [yiister/yii2-gentelella](https://github.com/yiister/yii2-gentelella) ⭐ 275 | 🐛 14 | 🌐 PHP | 📅 2025-02-02：Gentelella 后台模板，[在线体验地址](http://gentelella.yiister.ru/)
 * [yiister/yii2-adminlte](https://github.com/yiister/yii2-adminlte) ⭐ 28 | 🐛 6 | 🌐 PHP | 📅 2018-08-29：AdminLTE 后台模板的另一个选择，有做简单的 widget 封装，[在线体验地址](http://adminlte.yiister.ru/)
 
@@ -172,4 +172,4 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
