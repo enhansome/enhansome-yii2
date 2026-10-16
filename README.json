@@ -19,7 +19,7 @@
             "open_issues": 299,
             "owner": "yiisoft",
             "repo": "yii2",
-            "stars": 14281,
+            "stars": 14278,
             "topics": [
               "framework",
               "hacktoberfest",
@@ -121,8 +121,8 @@
             "id": 16685462,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T18:58:23Z",
-            "open_issues": 804,
+            "last_commit": "2026-10-16T03:00:16Z",
+            "open_issues": 805,
             "owner": "humhub",
             "repo": "humhub",
             "stars": 6750,
@@ -156,7 +156,7 @@
             "open_issues": 4,
             "owner": "fecshop",
             "repo": "yii2_fecshop",
-            "stars": 5260,
+            "stars": 5259,
             "topics": [
               "b2c",
               "cart",
@@ -332,7 +332,7 @@
             "open_issues": 11,
             "owner": "iiYii",
             "repo": "getyii",
-            "stars": 435,
+            "stars": 434,
             "topics": [
               "bbs",
               "getyii",
@@ -689,7 +689,7 @@
             "open_issues": 104,
             "owner": "dektrium",
             "repo": "yii2-user",
-            "stars": 908,
+            "stars": 907,
             "topics": [
               "yii2",
               "yii2-extension",
@@ -781,7 +781,7 @@
             "open_issues": 56,
             "owner": "CostaRico",
             "repo": "yii2-images",
-            "stars": 159,
+            "stars": 158,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
@@ -854,7 +854,7 @@
             "open_issues": 3,
             "owner": "loveorigami",
             "repo": "yii2-notification-wrapper",
-            "stars": 76,
+            "stars": 75,
             "topics": [
               "ajax",
               "growl",
@@ -1056,7 +1056,7 @@
             "open_issues": 46,
             "owner": "kop",
             "repo": "yii2-scroll-pager",
-            "stars": 178,
+            "stars": 177,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
@@ -1209,7 +1209,7 @@
             "open_issues": 74,
             "owner": "yiisoft",
             "repo": "yii2-queue",
-            "stars": 1063,
+            "stars": 1062,
             "topics": [
               "amqp",
               "async",
@@ -1366,7 +1366,7 @@
             "open_issues": 2,
             "owner": "alexandernst",
             "repo": "yii2-device-detect",
-            "stars": 135,
+            "stars": 132,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
@@ -2299,7 +2299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T06:29:44.602Z",
+    "last_updated": "2026-10-16T06:25:35.755Z",
     "original_repository_info": {
       "archived": false,
       "description": "Yii2 干货集",
