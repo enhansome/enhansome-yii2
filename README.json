@@ -121,11 +121,11 @@
             "id": 16685462,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-18T03:03:50Z",
-            "open_issues": 807,
+            "last_commit": "2026-10-19T06:46:17Z",
+            "open_issues": 808,
             "owner": "humhub",
             "repo": "humhub",
-            "stars": 6751,
+            "stars": 6752,
             "topics": [
               "awesome",
               "enterprise-social-networks",
@@ -577,7 +577,7 @@
             "id": 228758193,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-15T03:29:39Z",
+            "last_commit": "2026-10-19T05:54:34Z",
             "open_issues": 0,
             "owner": "jamband",
             "repo": "plusarchive.com",
@@ -2299,7 +2299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T06:37:17.806Z",
+    "last_updated": "2026-10-19T06:54:04.381Z",
     "original_repository_info": {
       "archived": false,
       "description": "Yii2 干货集",
