@@ -121,11 +121,11 @@
             "id": 16685462,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-20T06:29:36Z",
-            "open_issues": 805,
+            "last_commit": "2026-10-21T03:04:06Z",
+            "open_issues": 810,
             "owner": "humhub",
             "repo": "humhub",
-            "stars": 6751,
+            "stars": 6753,
             "topics": [
               "awesome",
               "enterprise-social-networks",
@@ -2299,7 +2299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T06:40:05.194Z",
+    "last_updated": "2026-10-21T06:36:00.429Z",
     "original_repository_info": {
       "archived": false,
       "description": "Yii2 干货集",
