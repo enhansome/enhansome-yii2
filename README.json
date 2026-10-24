@@ -16,7 +16,7 @@
             "language": "PHP",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-21T19:59:04Z",
-            "open_issues": 299,
+            "open_issues": 300,
             "owner": "yiisoft",
             "repo": "yii2",
             "stars": 14280,
@@ -121,8 +121,8 @@
             "id": 16685462,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T03:04:06Z",
-            "open_issues": 806,
+            "last_commit": "2026-10-24T03:03:35Z",
+            "open_issues": 805,
             "owner": "humhub",
             "repo": "humhub",
             "stars": 6756,
@@ -187,11 +187,11 @@
             "id": 21611022,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-22T20:59:19Z",
+            "last_commit": "2026-10-23T12:10:34Z",
             "open_issues": 7,
             "owner": "yii-starter-kit",
             "repo": "yii2-starter-kit",
-            "stars": 1395,
+            "stars": 1394,
             "topics": [
               "adminlte3",
               "bootstrap4",
@@ -355,7 +355,7 @@
             "id": 26328526,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-07T08:20:39Z",
+            "last_commit": "2026-10-23T16:11:25Z",
             "open_issues": 73,
             "owner": "yiisoft-contrib",
             "repo": "yiiframework.com",
@@ -668,7 +668,7 @@
             "open_issues": 193,
             "owner": "mdmsoft",
             "repo": "yii2-admin",
-            "stars": 1147,
+            "stars": 1146,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:03.807Z"
@@ -2017,7 +2017,7 @@
             "open_issues": 17,
             "owner": "dmstr",
             "repo": "yii2-adminlte-asset",
-            "stars": 1119,
+            "stars": 1118,
             "topics": [
               "admin-dashboard",
               "admin-ui",
@@ -2044,7 +2044,7 @@
             "open_issues": 14,
             "owner": "yiister",
             "repo": "yii2-gentelella",
-            "stars": 275,
+            "stars": 274,
             "topics": [
               "backend",
               "gentelella",
@@ -2299,7 +2299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T06:32:15.430Z",
+    "last_updated": "2026-10-24T06:30:39.526Z",
     "original_repository_info": {
       "archived": false,
       "description": "Yii2 干货集",
