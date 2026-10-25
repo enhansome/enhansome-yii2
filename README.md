@@ -11,7 +11,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ## Docs 文档
 
-* [Yii Framework 2.0 中文权威指南 ](https://github.com/yiisoft/yii2/tree/master/docs/guide-zh-CN) ⭐ 14,280 | 🐛 300 | 🌐 PHP | 📅 2026-10-21
+* [Yii Framework 2.0 中文权威指南 ](https://github.com/yiisoft/yii2/tree/master/docs/guide-zh-CN) ⭐ 14,280 | 🐛 299 | 🌐 PHP | 📅 2026-10-24
 * [yii2-cookbook](https://github.com/samdark/yii2-cookbook) ⭐ 1,438 | 🐛 55 | 🌐 Makefile | 📅 2024-07-03
 * [Yii2 官方文档及其他文本的中文本土化项目](https://github.com/yii2-chinesization/yii2-zh-cn) ⭐ 277 | 🐛 4 | 🌐 PHP | 📅 2021-10-26
 * [yii2-coding-standards](https://github.com/yiisoft/yii2-coding-standards) ⭐ 180 | 🐛 1 | 🌐 PHP | 📅 2026-08-14：Yii2 代码标准检查
@@ -23,7 +23,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ## 基于 Yii2 的开源程序
 
-* [humhub](https://github.com/humhub/humhub) ⭐ 6,756 | 🐛 805 | 🌐 PHP | 📅 2026-10-24：开源社交网络，以前说 Yii 1 现在迁移到 Yii2。
+* [humhub](https://github.com/humhub/humhub) ⭐ 6,757 | 🐛 807 | 🌐 PHP | 📅 2026-10-24：开源社交网络，以前说 Yii 1 现在迁移到 Yii2。
 * [Fecshop](https://github.com/fancyecommerce/yii2_fecshop) ⭐ 5,259 | 🐛 4 | 🌐 PHP | 📅 2026-09-05 ：Fecshop 全称为 Fancy ECommerce Shop，是基于 PHP Yii2框架之上开发的一款优秀的开源电商系统。
 * [yii2-starter-kit](https://github.com/trntv/yii2-starter-kit) ⭐ 1,394 | 🐛 7 | 🌐 PHP | 📅 2026-10-23：Yii2 开箱即用
 * [zephir/luya](https://github.com/zephir/luya) ⭐ 802 | 🐛 4 | 🌐 PHP | 📅 2025-11-18：基于Yii2 CMS的编程框架。
@@ -172,4 +172,4 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
