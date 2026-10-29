@@ -15,11 +15,11 @@
             "id": 3431193,
             "language": "PHP",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-24T08:38:15Z",
-            "open_issues": 300,
+            "last_commit": "2026-10-28T21:50:56Z",
+            "open_issues": 302,
             "owner": "yiisoft",
             "repo": "yii2",
-            "stars": 14280,
+            "stars": 14278,
             "topics": [
               "framework",
               "hacktoberfest",
@@ -121,8 +121,8 @@
             "id": 16685462,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-28T03:03:27Z",
-            "open_issues": 808,
+            "last_commit": "2026-10-29T03:03:33Z",
+            "open_issues": 809,
             "owner": "humhub",
             "repo": "humhub",
             "stars": 6762,
@@ -153,7 +153,7 @@
             "language": "PHP",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-05T10:12:24Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "fecshop",
             "repo": "yii2_fecshop",
             "stars": 5261,
@@ -2299,7 +2299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T07:29:39.385Z",
+    "last_updated": "2026-10-29T07:41:07.997Z",
     "original_repository_info": {
       "archived": false,
       "description": "Yii2 干货集",
