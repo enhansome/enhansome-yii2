@@ -16,7 +16,7 @@
             "language": "PHP",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-30T15:35:36Z",
-            "open_issues": 291,
+            "open_issues": 292,
             "owner": "yiisoft",
             "repo": "yii2",
             "stars": 14277,
@@ -125,7 +125,7 @@
             "open_issues": 810,
             "owner": "humhub",
             "repo": "humhub",
-            "stars": 6766,
+            "stars": 6770,
             "topics": [
               "awesome",
               "enterprise-social-networks",
@@ -577,7 +577,7 @@
             "id": 228758193,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-19T05:54:34Z",
+            "last_commit": "2026-10-31T11:23:24Z",
             "open_issues": 0,
             "owner": "jamband",
             "repo": "plusarchive.com",
@@ -1255,27 +1255,6 @@
         },
         {
           "node_type": "item",
-          "title": "yiidoc/yii2-redactor",
-          "description": "：大名鼎鼎的 Redactor 在线编辑器",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Extension Redactor WYSIWYG for Yii2 framework",
-            "homepage": null,
-            "id": 12959597,
-            "language": "JavaScript",
-            "license": "BSD-3-Clause",
-            "last_commit": "2022-04-15T01:47:07Z",
-            "open_issues": 52,
-            "owner": "yiidoc",
-            "repo": "yii2-redactor",
-            "stars": 185,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T13:23:03.807Z"
-        },
-        {
-          "node_type": "item",
           "title": "crontab",
           "description": "：Yii2 定时任务",
           "children": [],
@@ -1304,6 +1283,27 @@
         },
         {
           "node_type": "item",
+          "title": "yiidoc/yii2-redactor",
+          "description": "：大名鼎鼎的 Redactor 在线编辑器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Extension Redactor WYSIWYG for Yii2 framework",
+            "homepage": null,
+            "id": 12959597,
+            "language": "JavaScript",
+            "license": "BSD-3-Clause",
+            "last_commit": "2022-04-15T01:47:07Z",
+            "open_issues": 52,
+            "owner": "yiidoc",
+            "repo": "yii2-redactor",
+            "stars": 184,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T13:23:03.807Z"
+        },
+        {
+          "node_type": "item",
           "title": "lichunqiang/yii2-swagger",
           "description": "：Yii2 结合 swagger 让写 API 文档不再是难事。Demo 地址",
           "children": [],
@@ -1315,7 +1315,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-10-30T10:56:02Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "lichunqiang",
             "repo": "yii2-swagger",
             "stars": 153,
@@ -2299,7 +2299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T07:31:18.913Z",
+    "last_updated": "2026-11-01T08:11:48.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "Yii2 干货集",
