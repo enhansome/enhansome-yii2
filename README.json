@@ -16,7 +16,7 @@
             "language": "PHP",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-04T21:51:58Z",
-            "open_issues": 290,
+            "open_issues": 291,
             "owner": "yiisoft",
             "repo": "yii2",
             "stars": 14275,
@@ -121,8 +121,8 @@
             "id": 16685462,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-07T03:02:35Z",
-            "open_issues": 815,
+            "last_commit": "2026-11-08T03:02:46Z",
+            "open_issues": 816,
             "owner": "humhub",
             "repo": "humhub",
             "stars": 6780,
@@ -156,7 +156,7 @@
             "open_issues": 5,
             "owner": "fecshop",
             "repo": "yii2_fecshop",
-            "stars": 5259,
+            "stars": 5260,
             "topics": [
               "b2c",
               "cart",
@@ -2299,7 +2299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T07:48:41.386Z",
+    "last_updated": "2026-11-08T07:59:39.464Z",
     "original_repository_info": {
       "archived": false,
       "description": "Yii2 干货集",
