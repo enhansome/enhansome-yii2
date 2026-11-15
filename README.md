@@ -11,7 +11,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ## Docs 文档
 
-* [Yii Framework 2.0 中文权威指南 ](https://github.com/yiisoft/yii2/tree/master/docs/guide-zh-CN) ⭐ 14,276 | 🐛 292 | 🌐 PHP | 📅 2026-11-13
+* [Yii Framework 2.0 中文权威指南 ](https://github.com/yiisoft/yii2/tree/master/docs/guide-zh-CN) ⭐ 14,277 | 🐛 292 | 🌐 PHP | 📅 2026-11-13
 * [yii2-cookbook](https://github.com/samdark/yii2-cookbook) ⭐ 1,438 | 🐛 55 | 🌐 Makefile | 📅 2024-07-03
 * [Yii2 官方文档及其他文本的中文本土化项目](https://github.com/yii2-chinesization/yii2-zh-cn) ⭐ 277 | 🐛 4 | 🌐 PHP | 📅 2021-10-26
 * [yii2-coding-standards](https://github.com/yiisoft/yii2-coding-standards) ⭐ 180 | 🐛 1 | 🌐 PHP | 📅 2026-08-14：Yii2 代码标准检查
@@ -82,7 +82,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 ## Extension 扩展
 
 * [zhuravljov/yii2-queue](https://github.com/zhuravljov/yii2-queue) ⭐ 1,061 | 🐛 77 | 🌐 PHP | 📅 2026-11-13：有望成为官网异步扩展的队列
-* [yii2-imagine](https://github.com/yiisoft/yii2-imagine) ⭐ 286 | 🐛 7 | 🌐 PHP | 📅 2026-11-03：图片处理，缩略图生成
+* [yii2-imagine](https://github.com/yiisoft/yii2-imagine) ⭐ 284 | 🐛 7 | 🌐 PHP | 📅 2026-11-03：图片处理，缩略图生成
 * [crontab](https://github.com/yii2tech/crontab) ⚠️ Archived：Yii2 定时任务
 * [yiidoc/yii2-redactor](https://github.com/yiidoc/yii2-redactor) ⭐ 184 | 🐛 52 | 🌐 JavaScript | 📅 2022-04-15：大名鼎鼎的 [Redactor](http://imperavi.com/redactor/) 在线编辑器
 * [lichunqiang/yii2-swagger](https://github.com/lichunqiang/yii2-swagger) ⭐ 153 | 🐛 0 | 🌐 PHP | 📅 2026-11-02：Yii2 结合 [swagger](http://swagger.io/) 让写 API 文档不再是难事。[Demo 地址](https://github.com/lichunqiang/yii2-swagger-demo) ⭐ 60 | 🐛 1 | 🌐 PHP | 📅 2017-10-11
@@ -123,7 +123,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ## Themes 主题模板
 
-* [dmstr/yii2-adminlte-asset](https://github.com/dmstr/yii2-adminlte-asset) ⭐ 1,119 | 🐛 17 | 🌐 PHP | 📅 2025-10-20：大名鼎鼎的 [AdminLTE](https://github.com/almasaeed2010/AdminLTE) ⭐ 45,693 | 🐛 15 | 🌐 Astro | 📅 2026-11-14 开源后台，我现在很多后台就用这个。配合[Yii2 使用 AdminLTE 模板](http://www.getyii.com/topic/564)教程使用更佳。
+* [dmstr/yii2-adminlte-asset](https://github.com/dmstr/yii2-adminlte-asset) ⭐ 1,119 | 🐛 17 | 🌐 PHP | 📅 2025-10-20：大名鼎鼎的 [AdminLTE](https://github.com/almasaeed2010/AdminLTE) ⭐ 45,692 | 🐛 15 | 🌐 Astro | 📅 2026-11-14 开源后台，我现在很多后台就用这个。配合[Yii2 使用 AdminLTE 模板](http://www.getyii.com/topic/564)教程使用更佳。
 * [yiister/yii2-gentelella](https://github.com/yiister/yii2-gentelella) ⭐ 274 | 🐛 14 | 🌐 PHP | 📅 2025-02-02：Gentelella 后台模板，[在线体验地址](http://gentelella.yiister.ru/)
 * [yiister/yii2-adminlte](https://github.com/yiister/yii2-adminlte) ⭐ 28 | 🐛 6 | 🌐 PHP | 📅 2018-08-29：AdminLTE 后台模板的另一个选择，有做简单的 widget 封装，[在线体验地址](http://adminlte.yiister.ru/)
 
@@ -172,4 +172,4 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._

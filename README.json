@@ -19,7 +19,7 @@
             "open_issues": 292,
             "owner": "yiisoft",
             "repo": "yii2",
-            "stars": 14276,
+            "stars": 14277,
             "topics": [
               "framework",
               "hacktoberfest",
@@ -1240,7 +1240,7 @@
             "open_issues": 7,
             "owner": "yiisoft",
             "repo": "yii2-imagine",
-            "stars": 286,
+            "stars": 284,
             "topics": [
               "hacktoberfest",
               "image",
@@ -2299,7 +2299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T08:03:35.971Z",
+    "last_updated": "2026-11-15T08:28:07.486Z",
     "original_repository_info": {
       "archived": false,
       "description": "Yii2 干货集",
