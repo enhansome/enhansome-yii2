@@ -19,7 +19,7 @@
             "open_issues": 292,
             "owner": "yiisoft",
             "repo": "yii2",
-            "stars": 14277,
+            "stars": 14279,
             "topics": [
               "framework",
               "hacktoberfest",
@@ -121,11 +121,11 @@
             "id": 16685462,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-14T03:02:16Z",
+            "last_commit": "2026-11-16T03:03:32Z",
             "open_issues": 814,
             "owner": "humhub",
             "repo": "humhub",
-            "stars": 6785,
+            "stars": 6786,
             "topics": [
               "awesome",
               "enterprise-social-networks",
@@ -577,7 +577,7 @@
             "id": 228758193,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-31T11:23:24Z",
+            "last_commit": "2026-11-16T03:15:04Z",
             "open_issues": 0,
             "owner": "jamband",
             "repo": "plusarchive.com",
@@ -1205,11 +1205,11 @@
             "id": 72430005,
             "language": "PHP",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-13T14:51:08Z",
-            "open_issues": 77,
+            "last_commit": "2026-11-16T08:27:24Z",
+            "open_issues": 75,
             "owner": "yiisoft",
             "repo": "yii2-queue",
-            "stars": 1061,
+            "stars": 1060,
             "topics": [
               "amqp",
               "async",
@@ -2299,7 +2299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T08:28:07.486Z",
+    "last_updated": "2026-11-16T08:37:04.179Z",
     "original_repository_info": {
       "archived": false,
       "description": "Yii2 干货集",
