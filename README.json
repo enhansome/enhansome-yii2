@@ -19,7 +19,7 @@
             "open_issues": 292,
             "owner": "yiisoft",
             "repo": "yii2",
-            "stars": 14279,
+            "stars": 14278,
             "topics": [
               "framework",
               "hacktoberfest",
@@ -121,11 +121,11 @@
             "id": 16685462,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-16T03:03:32Z",
+            "last_commit": "2026-11-17T08:23:40Z",
             "open_issues": 814,
             "owner": "humhub",
             "repo": "humhub",
-            "stars": 6786,
+            "stars": 6787,
             "topics": [
               "awesome",
               "enterprise-social-networks",
@@ -153,7 +153,7 @@
             "language": "PHP",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-05T10:12:24Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "fecshop",
             "repo": "yii2_fecshop",
             "stars": 5263,
@@ -1205,7 +1205,7 @@
             "id": 72430005,
             "language": "PHP",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-16T08:27:24Z",
+            "last_commit": "2026-11-17T08:03:59Z",
             "open_issues": 75,
             "owner": "yiisoft",
             "repo": "yii2-queue",
@@ -2299,7 +2299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T08:37:04.179Z",
+    "last_updated": "2026-11-17T09:44:42.546Z",
     "original_repository_info": {
       "archived": false,
       "description": "Yii2 干货集",
@@ -2308,7 +2308,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2022-02-12T14:56:00Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "forecho",
       "repo": "awesome-yii2",
       "stars": 1809,
