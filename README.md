@@ -23,7 +23,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ## 基于 Yii2 的开源程序
 
-* [humhub](https://github.com/humhub/humhub) ⭐ 6,790 | 🐛 815 | 🌐 PHP | 📅 2026-11-20：开源社交网络，以前说 Yii 1 现在迁移到 Yii2。
+* [humhub](https://github.com/humhub/humhub) ⭐ 6,791 | 🐛 808 | 🌐 PHP | 📅 2026-11-21：开源社交网络，以前说 Yii 1 现在迁移到 Yii2。
 * [Fecshop](https://github.com/fancyecommerce/yii2_fecshop) ⭐ 5,262 | 🐛 6 | 🌐 PHP | 📅 2026-09-05 ：Fecshop 全称为 Fancy ECommerce Shop，是基于 PHP Yii2框架之上开发的一款优秀的开源电商系统。
 * [yii2-starter-kit](https://github.com/trntv/yii2-starter-kit) ⭐ 1,395 | 🐛 9 | 🌐 PHP | 📅 2026-11-18：Yii2 开箱即用
 * [zephir/luya](https://github.com/zephir/luya) ⭐ 801 | 🐛 4 | 🌐 PHP | 📅 2025-11-18：基于Yii2 CMS的编程框架。
@@ -31,7 +31,7 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 * [EasyiiCMS](https://github.com/noumo/easyii) ⭐ 582 | 🐛 111 | 🌐 PHP | 📅 2019-04-30：基于 Yii2 的 CMS 系统
 * [yii2-shop](https://github.com/samdark/yii2-shop) ⭐ 459 | 🐛 2 | 🌐 PHP | 📅 2021-03-02：使用Yii 2.0实现简单商店的示例项目
 * [GetYii](https://github.com/iiyii/getyii) ⭐ 434 | 🐛 11 | 🌐 PHP | 📅 2023-08-04：论坛
-* [yiisoft-contrib/yiiframework.com](https://github.com/yiisoft-contrib/yiiframework.com) ⭐ 264 | 🐛 74 | 🌐 HTML | 📅 2026-11-20：新版官网首页正在开发中
+* [yiisoft-contrib/yiiframework.com](https://github.com/yiisoft-contrib/yiiframework.com) ⭐ 264 | 🐛 72 | 🌐 HTML | 📅 2026-11-20：新版官网首页正在开发中
 * [yincart2](https://github.com/yincart2/galaxy) ⭐ 228 | 🐛 8 | 🌐 CSS | 📅 2019-04-22：电商星系系统，提供零售、批发、特卖、垂直电商、分销、O2O、C2C、移动电商、微信电商、社交电商、P2P、众筹等电商解决方案，根据需要选择不同的模块组合
 * [funshop](https://github.com/funson86/funshop) ⭐ 228 | 🐛 8 | 🌐 PHP | 📅 2017-02-08：一个灵活的商城。
 * [githubjeka/angular-yii2](https://github.com/githubjeka/angular-yii2) ⭐ 202 | 🐛 4 | 📅 2017-04-18：yii2 restful + angular 实现前后端分离
@@ -81,8 +81,8 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ## Extension 扩展
 
-* [zhuravljov/yii2-queue](https://github.com/zhuravljov/yii2-queue) ⭐ 1,059 | 🐛 66 | 🌐 PHP | 📅 2026-11-18：有望成为官网异步扩展的队列
-* [yii2-imagine](https://github.com/yiisoft/yii2-imagine) ⭐ 284 | 🐛 7 | 🌐 PHP | 📅 2026-11-03：图片处理，缩略图生成
+* [zhuravljov/yii2-queue](https://github.com/zhuravljov/yii2-queue) ⭐ 1,059 | 🐛 63 | 🌐 PHP | 📅 2026-11-20：有望成为官网异步扩展的队列
+* [yii2-imagine](https://github.com/yiisoft/yii2-imagine) ⭐ 284 | 🐛 6 | 🌐 PHP | 📅 2026-11-20：图片处理，缩略图生成
 * [crontab](https://github.com/yii2tech/crontab) ⚠️ Archived：Yii2 定时任务
 * [yiidoc/yii2-redactor](https://github.com/yiidoc/yii2-redactor) ⭐ 184 | 🐛 52 | 🌐 JavaScript | 📅 2022-04-15：大名鼎鼎的 [Redactor](http://imperavi.com/redactor/) 在线编辑器
 * [lichunqiang/yii2-swagger](https://github.com/lichunqiang/yii2-swagger) ⭐ 153 | 🐛 0 | 🌐 PHP | 📅 2026-11-02：Yii2 结合 [swagger](http://swagger.io/) 让写 API 文档不再是难事。[Demo 地址](https://github.com/lichunqiang/yii2-swagger-demo) ⭐ 60 | 🐛 1 | 🌐 PHP | 📅 2017-10-11
@@ -172,4 +172,4 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
